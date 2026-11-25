@@ -1,0 +1,1354 @@
+{
+  "siteTitle": "Ulug' Turkiston",
+  "siteTitleRu": "Улуг Туркистон",
+  "siteTitleUz": "Uluğ Turkiston",
+  "telegramChannelUrl": "https://t.me/+vNRX4_hP69xlNjIy",
+  "parties": [
+    {
+      "id": "unity",
+      "name": "Shura-i-Ulema",
+      "nameRu": "Шура-и-Улема",
+      "nameUz": "Şöroyi Ulamo",
+      "shortName": "SiU",
+      "shortNameRu": "ШиУ",
+      "shortNameUz": "ŞU",
+      "color": "#1F4E9E",
+      "ideology": "Muslim Conservatism",
+      "ideologyRu": "Мусульманский консерватизм",
+      "ideologyUz": "Musulmon an’anaviyligi (qadimçilik)",
+      "leader": "Sherali Lapin",
+      "leaderRu": "Серали Лапин",
+      "leaderUz": "Şerali Lapin",
+      "description": "A socio-political organization in Turkestan formed during the 1917 Revolution after splitting from Shura-i-Islamiya. It unites representatives of the Muslim clergy, traditional elites, and the national bourgeoisie, advocating the preservation of Sharia law, traditional foundations, and customary land ownership.",
+      "descriptionRu": "Общественно-политическая организация в Туркестане, возникшая в 1917 году после раскола с «Шура-и-Исламия». Объединяет представителей мусульманского духовенства, традиционной знати и национальной буржуазии, выступающих за сохранение норм шариата, традиционных устоев и обычного землевладения.",
+      "descriptionUz": "1917-yilgi özgarishlar davrida «Şöroyi İslomiya»dan ajralib çiqqan Turkistondagi ijtimoiy-siyosiy uyuşma. U musulmon ulamolari, eski el-yurt kattalari hamda milliy boylar vakillarini birlaştirib, şariat qoidalari, ota-bobo udumlari va an’anaviy yer egaligini saqlab qolişni yoqlaydi."
+    },
+    {
+      "id": "green",
+      "name": "Turkestan Military Organization (Turkestan Union for the Struggle Against Bolshevism)",
+      "nameRu": "Туркестанская военная организация (Туркестанский союз борьбы с большевизмом)",
+      "nameUz": "Turkiston Harbiy Taşkiloti (Bolşevizmga Qarşi Kuraş Turkiston İttifoqi)",
+      "shortName": "TMO",
+      "shortNameRu": "ТВО",
+      "shortNameUz": "THT",
+      "color": "#2E8B57",
+      "ideology": "Tsarism, Centrist-Loyalism",
+      "ideologyRu": "Царизм, центристский лоялизм",
+      "ideologyUz": "Podşohçilik, mötadil sadoqatparastlik",
+      "leader": "Colonel Pyotr Kornilov",
+      "leaderRu": "Полковник Пётр Корнилов",
+      "leaderUz": "Polkovnik Pyotr Kornilov",
+      "description": "Anti-Bolshevik officers, former tsarist officials, Cossack authorities, Constitutional Democrats, and Right Socialist Revolutionaries rallying against Soviet rule across Turkestan. Strongest in Cossack stanitsas and officer circles in Semirechye and Transcaspia, it seeks to restore imperial order and dismantle the Soviets.",
+      "descriptionRu": "Антибольшевистские офицеры, бывшие царские чиновники, казачьи власти, кадеты и правые эсеры, объединяющиеся против советской власти по всему Туркестану. Наиболее влиятельны в казачьих станицах и офицерской среде Семиречья и Закаспия, стремясь восстановить прежний государственный порядок и упразднить Советы.",
+      "descriptionUz": "Butun Turkiston böylab Şöro hokimiyatiga qarşi birlaşgan aksilbolşevik ofitserlar, sobiq podşoh amaldorlari, kazak boşliqlari, kadetlar va öng eserlardan iborat kuch. Yettisuv va Kaspiyortidagi kazak stanitsalari hamda harbiylar orasida eng kuchli bölib, avvalgi davlat tartibini tiklaş va Şörolarni tugatişga intiladi."
+    },
+    {
+      "id": "civic",
+      "name": "Tashkent Soviet of Workers' and Soldiers' Deputies",
+      "nameRu": "Ташкентский Совет рабочих и солдатских депутатов",
+      "nameUz": "Toşkent İşçi va Soldat Deputatlari Şörosi",
+      "shortName": "TSWSD",
+      "shortNameRu": "ТСРиСД",
+      "shortNameUz": "TİSDŞ",
+      "color": "#C23B3B",
+      "ideology": "Bolshevism, Broad Socialism",
+      "ideologyRu": "Большевизм, широкий социализм",
+      "ideologyUz": "Bolşevizm, keng sotsializm",
+      "leader": "Fyodor Ivanovich Kolesov",
+      "leaderRu": "Фёдор Иванович Колесов",
+      "leaderUz": "Fyodor İvanoviç Kolesov",
+      "description": "The first Soviet in Turkestan was established during a workers' strike at the Central Asian Railway in Tashkent, forming the foundation of the Tashkent Soviet of Workers' and Soldiers' Deputies. Following its armed seizure of power in Tashkent in November 1917, it relies primarily on European railway workers and garrison soldiers while refusing to admit Muslim representatives into regional governance.",
+      "descriptionRu": "Первый Совет в Туркестане возник во время забастовки рабочих Среднеазиатской железной дороги в Ташкенте, положив начало Ташкентскому Совету рабочих и солдатских депутатов. После вооружённого захвата власти в Ташкенте в ноябре 1917 года опирается преимущественно на европейских железнодорожников и солдат гарнизонов, отказывая коренному населению в участии в управлении краем.",
+      "descriptionUz": "Turkistondagi ilk Şöro Toşkentda Örta Osiyo temiryöl işcilarining iş taşlaşi paytida tuzilib, Toşkent İşçi va Soldat Deputatlari Şörosiga asos böldi. 1917-yil noyabrida Toşkentda qurolli yöl bilan hokimiyatni egallagandan söng, asosan yevropalik temiryölcilar va qal’a soldatlariga tayanadi hamda yerli musulmon vakillarini ölka boşqaruviga yaqinlaştirmaydi."
+    },
+    {
+      "id": "liberty",
+      "name": "Shura-i-Islamiya",
+      "nameRu": "Шура-и-Исламия",
+      "nameUz": "Şöroyi İslomiya",
+      "shortName": "SiI",
+      "shortNameRu": "ШиИ",
+      "shortNameUz": "Şİ",
+      "color": "#D9930D",
+      "ideology": "Classical Liberalism, Reformism",
+      "ideologyRu": "Классический либерализм, реформизм",
+      "ideologyUz": "Hurriyatparvarlik, islohotçilik (jadidçilik)",
+      "leader": "Munawwar Qari Abdurrashidkhan ogli",
+      "leaderRu": "Мунаввар Кары Абдурашидханов",
+      "leaderUz": "Munavvar Qori Abduraşidxon öğli",
+      "description": "A socio-political organization founded in Tashkent in March 1917 and ideologically rooted in the Jadidist movement — a national-democratic, educational-reformist current. Following the Bolshevik seizure of Tashkent, its leaders spearheaded the Fourth Extraordinary Regional Muslim Congress in Kokand and established our autonomous government.",
+      "descriptionRu": "Общественно-политическая организация, основанная в Ташкенте в марте 1917 года и идейно связанная с движением джадидов — национально-демократическим, просветительско-реформаторским течением. После захвата власти большевиками в Ташкенте её лидеры возглавили IV Чрезвычайный краевой мусульманский съезд в Коканде и учредили наше автономное правительство.",
+      "descriptionUz": "1917-yil martida Toşkentda tuzilgan, ğoyaviy jihatdan jadidçilik — milliy-demokratik va ma’rifatparvarlik-islohotçilik harakatiga tayangan ijtimoiy-siyosiy uyuşma. Bolşeviklar Toşkentda hokimiyatni egallagandan söng uning yetakçilari Qöqonda IV Favqulodda Ölka Musulmonlar Qurultoyini çaqirib, muxtor hukumatimizni tuzdilar."
+    },
+    {
+      "id": "unrecognized",
+      "name": "Not Recognizing",
+      "nameRu": "Не признающие",
+      "nameUz": "Tan Olmaydiganlar",
+      "shortName": "NR",
+      "shortNameRu": "НП",
+      "shortNameUz": "TO",
+      "nonVoting": true,
+      "color": "#EFE8D5",
+      "ideology": "Autonomism, Dynastic & Tribal Loyalism",
+      "ideologyRu": "Автономизм, династический и родоплеменной лоялизм",
+      "ideologyUz": "Muxtoriyatçilik, sulola va uruğ-aymoq sadoqati",
+      "leader": "Regional Authorities (Alash Orda, Emirate, Khanate, Biys)",
+      "leaderRu": "Региональные власти (Алаш-Орда, Эмират, Ханство, бии)",
+      "leaderUz": "Ölka hokimiyatlari (Alaş Örda, Amirlik, Xonlik, biylar)",
+      "description": "Politically mobilized authorities and movements that recognize neither our Kokand Autonomy nor the Tashkent Soviet — including active Alash Orda committees in the steppe and Semirechye, court and dynastic loyalists of the Emir of Bukhara and Khan of Khiva, and autonomous tribal chiefs (such as the Alay biys and Yomud leaders), excluding apolitical rural and nomadic populations.",
+      "descriptionRu": "Политически мобилизованные власти и движения, не признающие ни нашу Кокандскую автономию, ни Ташкентский Совет — включая активные комитеты Алаш-Орды в степи и Семиречье, придворных и династических лоялистов эмира Бухарского и хана Хивинского, а также самостоятельных родоплеменных вождей (таких как алайские бии и йомудские ханы), за исключением аполитичного сельского и кочевого населения.",
+      "descriptionUz": "Na Qöqon Muxtoriyatimizni, na Toşkent Şörosini tan oladigan siyosiy faol kuchlar va hokimiyatlar: çul va Yettisuvdagi Alaş Örda qömitlari, Buxoro amiri hamda Xiva xonining saroy va sulola tarafdorlari, şuningdek mustaqil uruğ boşliqlari (Olay biylari va yovmut sardorlari kabi). Siyosatdan çetda turgan qişloq va köçmançi aholi bunga kirmaydi."
+    },
+    {
+      "id": "basmach",
+      "name": "Many Basmachi",
+      "nameRu": "Различные Басмачи",
+      "nameUz": "Turli Bosmaçi Tödalari",
+      "shortName": "B",
+      "shortNameRu": "Б",
+      "shortNameUz": "B",
+      "nonVoting": true,
+      "color": "#6b4e22",
+      "ideology": "Islamism, Banditism, Ultra-Nationalism",
+      "ideologyRu": "Исламизм, Бандитизм, Ультра-Национализм",
+      "ideologyUz": "İslomçilik, bosqinçilik, öta millatçilik",
+      "leader": "Katta Ergash",
+      "leaderRu": "Катта Эргаш",
+      "leaderUz": "Katta Ergash",
+      "description": "People living across Turkestan have not enjoyed the best quality of life in Russian Empire for a long time, but latest imperial lawmaking and Red's crimes have forced many people to become bandits all across the region. Led by ulema mebers, local Bays or just criminal gangs already existing became a major power in the region, some of which are siding with us. However, the Basmachis are an uncontrollable force with little regard to conventional politics, so we must be careful with them. They mostly support Shura-i-Ulema.",
+      "descriptionRu": "Жители Туркестана долгое время не могли похвастаться высоким уровнем жизни в составе Российской империи, однако недавние имперские законы и преступления «красных» вынудили многих из них встать на путь бандитизма. Под предводительством представителей духовенства (улемов), местных баев или же просто в составе уже существовавших преступных группировок эти люди превратились в значительную силу в регионе — причем некоторые из них выступают на нашей стороне. Впрочем, басмачи — стихийная сила, мало считающаяся с традиционной политикой, поэтому нам следует проявлять в отношениях с ними осторожность. В большинстве своем они поддерживают организацию «Шура-и-Улема».",
+      "descriptionUz": "Turkiston xalqi Rusiya imperiyasi qöl ostida uzoq yillar davomida oğir turmuş keçirdi; sönggi podşoh farmonlari va «qizillar»ning zulmi esa köpçilikni qölga qurol olib bosmaçilik yöliga kirishga majbur etdi. Ulamolar, mahalliy boylar yoinki avvaldan mavjud bölgan qaroqçi tödalar boşçiligidagi bu kishilar ölkada katta kuchga aylandi — ularning ayrimlari biz tomonda turibdi. Biroq bosmaçilar odatiy siyosatga böysunmaydigan özboşimça kuchdir, şu bois ular bilan ehtiyotkor bölmoq lozim. Ular köpinça «Şöroyi Ulamo»ni qöllab-quvvatlaydilar."
+    },
+    {
+      "id": "alash",
+      "name": "Alaş partiası",
+      "nameRu": "партия «Алаш»",
+      "nameUz": "«Alaş» partiyasi",
+      "shortName": "A",
+      "shortNameRu": "A",
+      "shortNameUz": "A",
+      "nonVoting": true,
+      "color": "#ffa200",
+      "ideology": "Reformism, Nationalism",
+      "ideologyRu": "Реформизм, Национализм",
+      "ideologyUz": "İslohotçilik, millatparvarlik",
+      "leader": "Alikhan Bukeikhanov",
+      "leaderRu": "Алихан Букейханов",
+      "leaderUz": "Alixon Bökeyxonov",
+      "description": "Alash is a political party and liberation movement in the Russian Republic and the ruling party of Alash Autonomy on the territory of Kazakhstan and Russia. They advocated for equal treatment between Kazakhs and Russians and the cessation of Russian settlement on the Kazakh lands. It was notably the first modern organized political Kazakh and Kyrgyz elite group.",
+      "descriptionRu": "«Алаш» — политическая партия и освободительное движение в Российской Республике, а также правящая партия Алашской автономии на территории Казахстана и России. Её участники выступали за равноправие казахов и русских, а также за прекращение переселения русских на казахские земли. Примечательно, что это было первое современное организованное политическое объединение казахской и киргизской элиты.",
+      "descriptionUz": "«Alaş» — Rusiya Jumhuriyatidagi siyosiy partiya va ozodlik harakati bölib, Qozogiston va Rusiya hududidagi Alaş Muxtoriyatining hukmron partiyasidir. Ular qozoqlar va ruslar örtasida teng huquqlilikni hamda qozoq yerlariga rus köçmançilarini joylaştirishni töxtatishni talab qildilar. Bu qozoq va qirğiz ziyolilarining ilk zamonaviy uyuşgan siyosiy birlaşmasi edi."
+    }
+  ],
+  "states": {
+    "Aral": {
+      "name": "Aral Sea",
+      "nameRu": "Аральское море",
+      "nameUz": "Orol dengizi",
+      "capital": "Baliqsheher",
+      "capitalRu": "Балыкшехер",
+      "capitalUz": "Baliqşahar",
+      "population": 15000000,
+      "customParties": [
+        {
+          "id": "sturgeon",
+          "shortName": "BT",
+          "shortNameUz": "BT",
+          "name": "Baliq Tiklanish",
+          "nameUz": "Baliq Tiklaniş",
+          "color": "#0284C7"
+        },
+        {
+          "id": "sailors",
+          "shortName": "FfSP",
+          "shortNameUz": "DQBP",
+          "name": "Fish for Seadraining Party",
+          "nameUz": "Dengizni Quritiş Tarafdori Baliqlar Partiyasi",
+          "color": "#FF0000"
+        },
+        {
+          "id": "waves",
+          "shortName": "SSFWP",
+          "shortNameUz": "TSBİP",
+          "name": "Seal-Socialist Fish Workers Party",
+          "nameUz": "Tyulen-Sotsialist Baliq İşçilar Partiyasi",
+          "color": "#6366F1"
+        }
+      ],
+      "results": {
+        "sturgeon": 54.0,
+        "sailors": 31.2,
+        "waves": 14.8
+      },
+      "facts": [
+        "Home to the country's 15,000,000 fish.",
+        "Sea.",
+        "Can't be drained.",
+        "Or can it?"
+      ],
+      "factsRu": [
+        "Дом для 15 000 000 рыб страны.",
+        "Море.",
+        "Его невозможно осушить.",
+        "Или всё-таки можно?"
+      ],
+      "factsUz": [
+        "Yurtning 15 000 000 baliği yaşaydigan makon.",
+        "Dengiz.",
+        "Uni quritib bölmaydi.",
+        "Yoki quritib bölarmikin?"
+      ]
+    },
+    "Khiva": {
+      "name": "Khanate of Khiva",
+      "nameRu": "Хивинское ханство",
+      "nameUz": "Xiva xonligi",
+      "capital": "Khiva",
+      "capitalRu": "Хива",
+      "capitalUz": "Xiva",
+      "population": 650000,
+      "seats": 4,
+      "nonVotingType": "independent",
+      "reason": "Independent state.",
+      "reasonRu": "Независимое государство.",
+      "reasonUz": "Mustaqil davlat.",
+      "facts": [
+        "Russian protectorate state led by Asfandiyar Khan since 1910. We lay claim to its territory!",
+        "The Majlis established in April 1917 under Young Khivan (Mladokhivintsy) pressure was overthrown later in the year by palace reactionaries and Yomud Turkmen tribal forces, splitting the Young Khivans between moderate constitutionalists and pro-Bolshevik exiles in Petro-Aleksandrovsk.",
+        "Muhammad Rahim Khan II (the preceding khan) took the late Timurid period — specifically the reign of Husayn Bayqara — as his primary political and cultural model.",
+        "The last Turkestani state to abolish slavery."
+      ],
+      "factsRu": [
+        "Российский протекторат под властью Асфандияр-хана с 1910 года. Мы предъявляем права на его территорию!",
+        "Меджлис, учреждённый в апреле 1917 года под давлением младохивинцев, был разогнан позднее в том же году реакционной дворцовой знатью и туркменскими племенными отрядами йомудов, что раскололо младохивинцев на умеренных конституционалистов и пробольшевистских изгнанников в Петро-Александровске.",
+        "Мухаммад Рахим-хан II (предыдущий хан) брал за главный политический и культурный образец эпоху поздних Тимуридов — в частности, правление Хусейна Байкары.",
+        "Последнее туркестанское государство, отменившее рабство."
+      ],
+      "factsUz": [
+        "1910-yildan beri Asfandiyorxon qöl ostidagi Rusiya homiyligidagi davlat. Biz uning yerlariga haqimiz borligini bildiramiz!",
+        "1917-yil aprelida Yoş xivaliklar bosimi ostida tuzilgan Majlis öşa yilning oxirida saroy a’yonlari va yovmut turkman otliqlari tomonidan tarqatib yuborildi; natijada Yoş xivaliklar mötadil qonunçilar hamda Petro-Aleksandrovskdagi bolşevikparast muhojirlarga bölinib ketdi.",
+        "Avvalgi xon Muhammad Rahimxon II sönggi Temuriylar davrini — xususan Husayn Boyqaro hukmronligini öziga asosiy siyosiy va madaniy namuna qilib olgan edi.",
+        "Turkistonda qulçilikni bekor qilgan eng sönggi davlat."
+      ],
+      "results": {
+        "unity": 16.0,
+        "civic": 12.0,
+        "green": 4.0,
+        "liberty": 16.0,
+        "unrecognized": 52.0
+      }
+    },
+    "Bukhara": {
+      "name": "Emirate of Bukhara",
+      "nameRu": "Бухарский эмират",
+      "nameUz": "Buxoro amirligi",
+      "capital": "Bukhara",
+      "capitalRu": "Бухара",
+      "capitalUz": "Buxoro",
+      "population": 2500000,
+      "seats": 6,
+      "nonVotingType": "independent",
+      "reason": "Independent state.",
+      "reasonRu": "Независимое государство.",
+      "reasonUz": "Mustaqil davlat.",
+      "facts": [
+        "Russian protectorate state led by Emir Sayyid Mir Muhammad Alim Khan since 1911. We lay claim to its territory!",
+        "Following the violent suppression of the April 1917 reform demonstration, the Young Bukharans (Mladobukhartsy) split between moderate constitutional Jadids aligned with us and a radical left wing in Kagan preparing an armed uprising with the Tashkent Soviet.",
+        "Russian railway settlements and garrisons in Kagan (New Bukhara), Chardjui, Termez, and Kerki are under local Soviet influence, while Old Bukhara remains firmly loyal to the Emir and conservative ulema.",
+        "Ancient center of Islamic learning and Silk Road commerce, linked to Russian Turkestan by the Central Asian Railway."
+      ],
+      "factsRu": [
+        "Российский протекторат под властью эмира Сеида Мир Мухаммада Алим-хана с 1911 года. Мы предъявляем права на его территорию!",
+        "После жестокого подавления реформистской демонстрации в апреле 1917 года младобухарцы раскололись на умеренных конституционных джадидов, ориентированных на нас, и радикальное левое крыло в Кагане, готовящее вооружённое восстание совместно с Ташкентским Советом.",
+        "Русские железнодорожные посёлки и гарнизоны в Кагане (Новой Бухаре), Чарджуе, Термезе и Керки находятся под влиянием местных Советов, тогда как Старая Бухара остаётся твёрдой опорой эмира и консервативного духовенства.",
+        "Древний центр исламской учёности и торговли на Шёлковом пути, связанный с Русским Туркестаном Среднеазиатской железной дорогой."
+      ],
+      "factsUz": [
+        "1911-yildan beri Amir Sayyid Mir Muhammad Olimxon qöl ostidagi Rusiya homiyligidagi davlat. Biz uning yerlariga da’vogarmiz!",
+        "1917-yil aprelidagi islohotçilik namoyişi qattiq bostirilganidan söng Yoş buxoroliklar ikkiga bölindi: biz bilan hamfikr mötadil jadidlar hamda Kogonda Toşkent Şörosi bilan birga qurolli qözğolonga tayyorlanayotgan keskin söl qanot.",
+        "Kogon (Yangi Buxoro), Çorjöy, Termiz va Karkidagi rus temiryöl qişloqlari va qal’a askarlari mahalliy Şörolar ta’sirida, Eski Buxoro esa Amir va qadimçi ulamolarga sodiq qolmoqda.",
+        "Örta Osiyo temiryöli orqali Rusiya Turkistoniga boğlangan, İslom ilmi va İpak yöli savdosining qadimiy markazi."
+      ],
+      "results": {
+        "unity": 23.0,
+        "civic": 13.0,
+        "green": 4.0,
+        "liberty": 16.0,
+        "unrecognized": 44.0
+      }
+    },
+    "Tejen": {
+      "name": "Tejen Uyezd",
+      "nameRu": "Тедженский уезд",
+      "nameUz": "Tajan uyezdi",
+      "capital": "Tejen",
+      "capitalRu": "Теджен",
+      "capitalUz": "Tajan",
+      "population": 63115,
+      "seats": 2,
+      "nonVotingType": "whites",
+      "reason": "Occupied by Russian Army.",
+      "reasonRu": "Окупировано Российской Армией.",
+      "reasonUz": "Rus qöşini tomonidan egallangan.",
+      "facts": [
+        "Part of Zakaspiyskaya Oblast, contested between uyezd Soviets, anti-Bolshevik officers, and Turkmen tribal leaders!",
+        "The Karakum Desert and arid steppes cover most of the uyezd, concentrating the population into scattered oases along the Transcaspian Railway.",
+        "Active Turkmen tribal detachments operate across the oasis belt, while organizational ties to us in Kokand remain thin."
+      ],
+      "factsRu": [
+        "Часть Закаспийской области, оспариваемая уездными Советами, антибольшевистскими офицерами и туркменскими племенными вождями!",
+        "Пустыня Каракумы и засушливые степи занимают большую часть уезда, концентрируя население в разрозненных оазисах вдоль Закаспийской железной дороги.",
+        "В полосе оазисов действуют туркменские племенные отряды, тогда как организационные связи с нами в Коканде остаются слабыми."
+      ],
+      "factsUz": [
+        "Kaspiyorti viloyatining bir qismi bölib, uyezd Şörolari, aksilbolşevik ofitserlar va turkman uruğ sardorlari örtasida talashda!",
+        "Uyezdning katta qismini Qoraqum çuli va quruq dashtlar egallagan, aholi esa Kaspiyorti temiryöli böyidagi tarqoq vohalarda töplangan.",
+        "Vohalar böylab turkman uruğ otliqlari harakat qilmoqda, Qöqondagi hukumatimiz bilan aloqalar esa hanuz sust."
+      ],
+      "results": {
+        "unity": 34.0,
+        "civic": 15.0,
+        "green": 37.0,
+        "liberty": 5.0,
+        "unrecognized": 9.0
+      }
+    },
+    "Merv": {
+      "name": "Merv Uyezd",
+      "nameRu": "Мервский уезд",
+      "nameUz": "Marv uyezdi",
+      "capital": "Merv",
+      "capitalRu": "Мерв",
+      "capitalUz": "Marv",
+      "population": 150000,
+      "seats": 2,
+      "nonVotingType": "whites",
+      "reason": "Occupied by Russian Army.",
+      "reasonRu": "Окупировано Российской Армией.",
+      "reasonUz": "Rus qöşini tomonidan egallangan.",
+      "facts": [
+        "Part of Zakaspiyskaya Oblast, where the local Soviet and railway workers contest power with Turkmen tribal leaders and anti-Bolshevik officers!",
+        "In the uyezd center of Merv (8,533 inhabitants), there are only 229 women for every thousand men.",
+        "Transcaspia sent only a single delegate to our Kokand Congress, leaving the uyezd largely detached from our direct authority."
+      ],
+      "factsRu": [
+        "Часть Закаспийской области, где местный Совет и железнодорожники оспаривают власть с туркменскими племенными лидерами и антибольшевистскими офицерами!",
+        "В уездном центре Мерве (8 533 жителя) на каждую тысячу мужчин приходится всего 229 женщин.",
+        "Закаспийская область направила на наш Кокандский съезд лишь одного делегата, из-за чего уезд остаётся практически оторванным от нашей прямой власти."
+      ],
+      "factsUz": [
+        "Kaspiyorti viloyatining bir qismi; bu yerda mahalliy Şöro va temiryölcilar turkman uruğ boşliqlari hamda aksilbolşevik ofitserlar bilan hokimiyat talashmoqda!",
+        "Uyezd markazi Marv şahrida (8 533 aholi) har ming nafar erkakka bor-yöği 229 nafar ayol töğri keladi.",
+        "Kaspiyorti viloyati Qöqon qurultoyimizga atigi bitta vakil yuborgani sababli uyezd bevosita boşqaruvimizdan uzilib qolgan."
+      ],
+      "results": {
+        "unity": 41.0,
+        "civic": 14.0,
+        "green": 31.0,
+        "liberty": 5.0,
+        "unrecognized": 9.0
+      }
+    },
+    "Ashabad": {
+      "name": "Askhabad Uyezd",
+      "nameRu": "Асхабадский уезд",
+      "nameUz": "Asxobod uyezdi",
+      "capital": "Askhabad",
+      "capitalRu": "Асхабад",
+      "capitalUz": "Asxobod",
+      "population": 135000,
+      "seats": 2,
+      "nonVotingType": "whites",
+      "reason": "Occupied by Russian Army.",
+      "reasonRu": "Окупировано Российской Армией.",
+      "reasonUz": "Rus qöşini tomonidan egallangan.",
+      "facts": [
+        "Administrative center of Zakaspiyskaya Oblast; in early December 1917, the 4th Oblast Congress of Soviets proclaimed Soviet power in Askhabad while the Turkmen National Committee organized its own cavalry squadron.",
+        "The town of Kyzyl-Arvat, located within the uyezd, houses the main railway workshops for the entire Transcaspian Railway.",
+        "Strongly polarized between Bolshevik railway workers and anti-Bolshevik officers cooperating with Turkmen elites."
+      ],
+      "factsRu": [
+        "Административный центр Закаспийской области; в начале декабря 1917 года IV областной съезд Советов провозгласил в Асхабаде советскую власть, тогда как Туркменский национальный комитет сформировал собственный конный дивизион.",
+        "В городе Кизыл-Арват, расположенном в пределах уезда, находятся главные железнодорожные мастерские всей Закаспийской железной дороги.",
+        "Уезд резко поляризован между большевистски настроенными железнодорожниками и антибольшевистскими офицерами, сотрудничающими с туркменской знатью."
+      ],
+      "factsUz": [
+        "Kaspiyorti viloyatining ma’muriy markazi; 1917-yil dekabr boşida Şörolarning IV viloyat qurultoyi Asxobodda Şöro hokimiyatini e’lon qildi, Turkman milliy qömitasi esa öz otliq qöşinini tuzdi.",
+        "Uyezd hududidagi Qizil-Arvot şahrida butun Kaspiyorti temiryölining asosiy ustaxonalari joylaşgan.",
+        "Uyezd bolşevik tarafdori bölgan temiryölcilar hamda turkman oqsoqollari bilan hamkorlik qilayotgan aksilbolşevik ofitserlar örtasida ikki qutbga bölingan."
+      ],
+      "results": {
+        "unity": 29.0,
+        "civic": 35.0,
+        "green": 21.0,
+        "liberty": 7.0,
+        "unrecognized": 8.0
+      }
+    },
+    "Krasnovodsk": {
+      "name": "Krasnovodsk Uyezd",
+      "nameRu": "Красноводский уезд",
+      "nameUz": "Krasnovodsk uyezdi",
+      "capital": "Krasnovodsk",
+      "capitalRu": "Красноводск",
+      "capitalUz": "Krasnovodsk",
+      "population": 68000,
+      "seats": 2,
+      "nonVotingType": "whites",
+      "reason": "Occupied by Russian Army.",
+      "reasonRu": "Окупировано Российской Армией.",
+      "reasonUz": "Rus qöşini tomonidan egallangan.",
+      "facts": [
+        "Strategic Caspian port and western terminus of the Transcaspian Railway, contested by port and railway Soviets alongside anti-Bolshevik officers!",
+        "Oil extraction on Cheleken Island and Caspian shipping made the uyezd a vital economic link to Baku and the Caucasus.",
+        "Weak influence from us in Kokand; dominated by Russian port workers, garrison soldiers, and coastal Yomud Turkmen clans."
+      ],
+      "factsRu": [
+        "Стратегический каспийский порт и западная конечная станция Закаспийской железной дороги, оспариваемые портово-железнодорожными Советами и антибольшевистскими офицерами!",
+        "Нефтедобыча на острове Челекен и каспийское судоходство сделали уезд важнейшим экономическим связующим звеном с Баку и Кавказом.",
+        "Наше влияние из Коканда здесь слабо; в уезде доминируют русские портовые рабочие, солдаты гарнизона и прибрежные туркменские роды йомудов."
+      ],
+      "factsUz": [
+        "Kaspiy dengizidagi muhim bandargoh va Kaspiyorti temiryölining ğarbiy sönggi bekati bölib, bandargoh va temiryöl Şörolari hamda aksilbolşevik ofitserlar örtasida talashda!",
+        "Çeleken orolida neft qazib oliş va Kaspiydagi kema qatnovi uyezdni Boku va Kavkaz bilan boğlovçi muhim xöjalik köprigiga aylantirgan.",
+        "Qöqondan ta’sirimiz bu yerda kuchsiz; uyezdda rus bandargoh işcilari, qal’a soldatlari va sohilböyi yovmut turkman uruğlari ustun."
+      ],
+      "results": {
+        "unity": 26.0,
+        "civic": 33.0,
+        "green": 24.0,
+        "liberty": 6.0,
+        "unrecognized": 11.0
+      }
+    },
+    "Aleksandrovsk": {
+      "name": "Mangyshlak Uyezd",
+      "nameRu": "Мангышлакский уезд",
+      "nameUz": "Manğişloq uyezdi",
+      "capital": "Fort-Aleksandrovsky",
+      "capitalRu": "Форт-Александровский",
+      "capitalUz": "Fort-Aleksandrovskiy",
+      "population": 82000,
+      "seats": 2,
+      "nonVotingType": "whites",
+      "reason": "Occupied by Russian Army.",
+      "reasonRu": "Окупировано Российской Армией.",
+      "reasonUz": "Rus qöşini tomonidan egallangan.",
+      "facts": [
+        "Part of Zakaspiyskaya Oblast, contested between the local Soviet in Fort-Aleksandrovsky, anti-Bolshevik officers, and nomadic Adai Kazakh and Turkmen clans!",
+        "Fort-Aleksandrovsky is under the authority of the Mangyshlak Uyezd Soviet of Soldiers', Workers', and Peasants' Deputies.",
+        "Geographically isolated from Fergana, with nomadic clans leaning toward Alash Orda or local autonomy rather than us."
+      ],
+      "factsRu": [
+        "Часть Закаспийской области, оспариваемая местным Советом в Форт-Александровском, антибольшевистскими офицерами и кочевыми казахскими (адаевскими) и туркменскими родами!",
+        "Форт-Александровский находится под властью Мангышлакского уездного Совета солдатских, рабочих и крестьянских депутатов.",
+        "Географически изолирован от Ферганы; кочевые роды склоняются к Алаш-Орде или местной автономии, а не к нам."
+      ],
+      "factsUz": [
+        "Kaspiyorti viloyatining bir qismi; Fort-Aleksandrovskiydagi mahalliy Şöro, aksilbolşevik ofitserlar hamda köçmançi oday qozoqlari va turkman uruğlari örtasida talashda!",
+        "Fort-Aleksandrovskiy Manğişloq uyezdi Soldat, İşçi va Dehqon Deputatlari Şörosi qöl ostida.",
+        "Farğonadan uzoq va ajralib qolgan; köçmançi uruğlar bizdan köra Alaş Örda yoki mahalliy özini özi boşqarişga moyil."
+      ],
+      "results": {
+        "unity": 38.0,
+        "civic": 9.0,
+        "green": 27.0,
+        "liberty": 4.0,
+        "unrecognized": 15.0,
+        "alash": 7.0
+      }
+    },
+    "Kazalinsk": {
+      "name": "Kazalinsk Uyezd",
+      "nameRu": "Казалинский уезд",
+      "nameUz": "Qazali uyezdi",
+      "capital": "Kazalinsk",
+      "capitalRu": "Казалинск",
+      "capitalUz": "Qazali",
+      "population": 180000,
+      "seats": 3,
+      "nonVotingType": "reds",
+      "reason": "Soviet Control.",
+      "reasonRu": "Под контролем советов.",
+      "reasonUz": "Şörolar qöl ostida.",
+      "facts": [
+        "Intense political struggle between Alash Orda committees, the local railway Soviet, and our supporters!",
+        "Since the 1910s, commercial fishing along the uyezd's Aral Sea coast has experienced a major boom.",
+        "Alash Orda lays claim to northern Syr Darya Oblast, competing directly with us for Kazakh support!"
+      ],
+      "factsRu": [
+        "Острая политическая борьба между комитетами Алаш-Орды, местным железнодорожным Советом и нашими сторонниками!",
+        "С 1910-х годов промышленное рыболовство на побережье Аральского моря в пределах уезда переживает бурный подъём.",
+        "Алаш-Орда претендует на север Сырдарьинской области, напрямую соперничая с нами за поддержку казахского населения!"
+      ],
+      "factsUz": [
+        "Alaş Örda qömitlari, mahalliy temiryöl Şörosi va bizning tarafdorlarimiz örtasida keskin siyosiy kuraş ketmoqda!",
+        "1910-yillardan beri uyezdning Orol dengizi sohillarida sanoat baliqçiligi jadal rivojlanmoqda.",
+        "Alaş Örda Sirdaryo viloyatining şimoliy qismiga da’vo qilib, qozoq aholisining qöllovi uçun biz bilan bevosita raqobatlaşmoqda!"
+      ],
+      "results": {
+        "unity": 13.0,
+        "civic": 31.0,
+        "green": 12.0,
+        "liberty": 14.0,
+        "alash": 23.0,
+        "unrecognized": 7.0
+      }
+    },
+    "Perovsk": {
+      "name": "Perovsk Uyezd",
+      "nameRu": "Перовский уезд",
+      "nameUz": "Perovsk (Oqmasjid) uyezdi",
+      "capital": "Perovsk",
+      "capitalRu": "Перовск",
+      "capitalUz": "Perovsk",
+      "population": 160000,
+      "seats": 3,
+      "nonVotingType": "reds",
+      "reason": "Soviet Control.",
+      "reasonRu": "Под контролем советов.",
+      "reasonUz": "Şörolar qöl ostida.",
+      "facts": [
+        "The local Soviet controls the city and railway corridor!",
+        "Thanks to a major railway depot, workshops, and revolutionary-minded workers and garrison soldiers, Soviet power was established in Perovsk very early — on October 30 (November 12), 1917, almost simultaneously with Petrograd and Tashkent.",
+        "Red forces are supplied along the Orenburg–Tashkent line through the region, while rural volosts lean toward Alash Orda and us."
+      ],
+      "factsRu": [
+        "Местный Совет контролирует город и железнодорожный коридор!",
+        "Благодаря крупному железнодорожному депо, мастерским и революционно настроенным рабочим и солдатам гарнизона советская власть установилась в Перовске очень рано — 30 октября (12 ноября) 1917 года, почти одновременно с Петроградом и Ташкентом.",
+        "Через уезд по линии Оренбург — Ташкент идёт снабжение красных отрядов, тогда как сельские волости тяготеют к Алаш-Орде и к нам."
+      ],
+      "factsUz": [
+        "Mahalliy Şöro şaharni va temiryöl yölagini qölida tutib turibdi!",
+        "Yirik temiryöl deposi, ustaxonalar hamda inqilobiy ruhdagi işcilar va qal’a soldatlari tufayli Perovskda Şöro hokimiyati juda erta — 1917-yil 30-oktabr (12-noyabr) kuni, Petrograd va Toşkent bilan deyarli bir vaqtda örnatildi.",
+        "Orenburg–Toşkent temiryöli orqali qizil otryadlarga ta’minot yetkazib berilmoqda, ovul va volostlar esa Alaş Örda hamda biz tomonga moyil."
+      ],
+      "results": {
+        "alash": 21.0,
+        "civic": 45.0,
+        "green": 10.0,
+        "liberty": 12.0,
+        "unity": 12.0
+      }
+    },
+    "Amu-Darya": {
+      "name": "Amu-Darya Department",
+      "nameRu": "Амударьинский отдел",
+      "nameUz": "Amudaryo bölimi",
+      "capital": "Petro-Aleksandrovsk",
+      "capitalRu": "Петро-Александровск",
+      "capitalUz": "Petro-Aleksandrovsk",
+      "population": 220000,
+      "seats": 3,
+      "nonVotingType": "independent",
+      "reason": "Isolated.",
+      "reasonRu": "Изолирован.",
+      "reasonUz": "Uzilib qolgan hudud.",
+      "facts": [
+        "Local Soviets seized power in Petro-Aleksandrovsk in December 1917 while Khivan and Yomud forces contest the borderlands!",
+        "The department was cut off from the rest of Syr Darya Oblast by the Kyzylkum and Karakum deserts, leaving the Amu Darya River as its only reliable transport artery.",
+        "The region is isolated and serves as a refuge for radical Young Khivan exiles, leaving only modest support for us."
+      ],
+      "factsRu": [
+        "В декабре 1917 года местные Советы взяли власть в Петро-Александровске, тогда как хивинские и йомудские отряды оспаривают приграничные земли!",
+        "Отдел был отрезан от остальной части Сырдарьинской области пустынями Кызылкум и Каракумы, из-за чего река Амударья оставалась его единственной надёжной транспортной артерией.",
+        "Регион изолирован и служит убежищем для радикальных младохивинских изгнанников, оставляя нам лишь скромную поддержку."
+      ],
+      "factsUz": [
+        "1917-yil dekabrida mahalliy Şörolar Petro-Aleksandrovskda hokimiyatni egalladi, çegara yerlari uçun esa Xiva va yovmut kuchlari kurashmoqda!",
+        "Bölim Sirdaryo viloyatining qolgan qismidan Qizilqum va Qoraqum çullari bilan ajralib qolgan bölib, Amudaryo uning yagona işonçli qatnov yöli edi.",
+        "Hudud çetda qolgan va keskin kayfiyatdagi Yoş xivalik muhojirlarga boşpana bölib xizmat qilmoqda, bizga bölgan tayanç esa kam."
+      ],
+      "results": {
+        "unity": 20.0,
+        "civic": 45.0,
+        "green": 8.0,
+        "liberty": 8.0,
+        "unrecognized": 19.0
+      }
+    },
+    "Turkistan": {
+      "name": "Chimkent Uyezd",
+      "nameRu": "Чимкентский уезд",
+      "nameUz": "Çimkent uyezdi",
+      "capital": "Chimkent",
+      "capitalRu": "Чимкент",
+      "capitalUz": "Çimkent",
+      "population": 340000,
+      "seats": 4,
+      "facts": [
+        "Local Soviets occupy Chimkent and the railway; Alash Orda and our committees contest the rest of the region!",
+        "A region with two major urban centers — Chimkent and Turkestan. Chimkent was home to the world's only major pharmaceutical plant producing santonin, an essential anthelmintic medicine.",
+        "Split between settled Uzbek and Sart towns backing us and Kazakh steppe volosts leaning toward Alash Orda."
+      ],
+      "factsRu": [
+        "Местные Советы занимают Чимкент и железную дорогу; Алаш-Орда и наши комитеты оспаривают остальную территорию уезда!",
+        "Уезд с двумя крупными городскими центрами — Чимкентом и Туркестаном. В Чимкенте действовал единственный в мире крупный фармацевтический завод по производству сантонина — важнейшего противоглистного лекарства.",
+        "Уезд разделён между оседлыми узбекскими и сартскими городами, поддерживающими нас, и казахскими степными волостями, тяготеющими к Алаш-Орде."
+      ],
+      "factsUz": [
+        "Mahalliy Şörolar Çimkent şahri va temiryölni egallagan; uyezdning qolgan qismi uçun esa Alaş Örda va bizning qömitlarimiz kurashmoqda!",
+        "İkkita yirik şahar markazi — Çimkent va Turkistonga ega uyezd. Çimkentda gijjaga qarşi muhim dori — santonin işlab çiqaruvchi dunyodagi yagona yirik dorixona zavodi joylaşgan edi.",
+        "Bizni qöllab-quvvatlovçi ötroq özbek va sart şaharlari bilan Alaş Ördaga moyil qozoq dasht volostlari örtasida bölingan."
+      ],
+      "results": {
+        "unity": 22.0,
+        "civic": 22.0,
+        "green": 12.0,
+        "liberty": 21.0,
+        "alash": 23.0
+      }
+    },
+    "Aulie-Ata": {
+      "name": "Aulie-Ata Uyezd",
+      "nameRu": "Аулие-Атинский уезд",
+      "nameUz": "Avliyoota uyezdi",
+      "capital": "Aulie-Ata",
+      "capitalRu": "Аулие-Ата",
+      "capitalUz": "Avliyoota",
+      "population": 330000,
+      "seats": 4,
+      "facts": [
+        "Local Soviets occupy Aulie-Ata; Alash Orda and our forces contest the surrounding countryside!",
+        "Mass peasant resettlement from European Russia in the 1900s–1910s created an acute shortage of arable and pasture land in the foothills. Amid drought and devastation, a fierce struggle broke out between the Aulie-Ata Soviet and local committees of Alash Orda.",
+        "The Revolutionary Union of Kazakh Youth under Turar Ryskulov challenges both Alash Orda and traditional elites."
+      ],
+      "factsRu": [
+        "Местные Советы занимают Аулие-Ату; Алаш-Орда и наши силы оспаривают окружающую сельскую местность!",
+        "Массовое крестьянское переселение из Европейской России в 1900–1910-х годах вызвало острый дефицит пахотных и пастбищных земель в предгорьях. На фоне засухи и разрухи разгорелась ожесточённая борьба между Аулие-Атинским Советом и местными комитетами Алаш-Орды.",
+        "Революционный союз казахской молодёжи во главе с Тураром Рыскуловым бросает вызов как Алаш-Орде, так и традиционной знати."
+      ],
+      "factsUz": [
+        "Mahalliy Şörolar Avliyoota şahrini egallagan; atrofdagi qişloq va yaylovlar uçun esa Alaş Örda va bizning kuchlarimiz talashmoqda!",
+        "1900–1910-yillarda Yevropa Rusiyasidan köplab mujiklarning köçirib kelişi toğ etaklarida ekin yerlari va yaylovlarning keskin tanqisligini keltirib çiqardi. Qurğoqçilik va vayronagarcilik şaroitida Avliyoota Şörosi bilan Alaş Ördaning mahalliy qömitlari örtasida şiddatli kuraş boşlandi.",
+        "Turor Risqulov boşçiligidagi Qozoq Yoşlarining İnqilobiy İttifoqi ham Alaş Ördaga, ham eski oqsoqollarga qarşi çiqmoqda."
+      ],
+      "results": {
+        "unity": 14.0,
+        "civic": 31.0,
+        "green": 12.0,
+        "liberty": 16.0,
+        "alash": 27.0
+      }
+    },
+    "Tashkent": {
+      "name": "Tashkent Uyezd",
+      "nameRu": "Ташкентский уезд",
+      "nameUz": "Toşkent uyezdi",
+      "capital": "Tashkent",
+      "capitalRu": "Ташкент",
+      "capitalUz": "Toşkent",
+      "population": 6500000,
+      "seats": 6,
+      "facts": [
+        "New Tashkent is under the firm control of the Tashkent Soviet, while Old Tashkent and the surrounding uyezd are controlled by us.",
+        "In December 1917, a rally of many thousands in Tashkent supporting our Kokand Autonomy ended with Red Guards opening fire on the demonstrators, pushing the region toward open armed confrontation.",
+        "The most populous city in Turkestan. In the 1910s, the uyezd became a key center for cotton cultivation (including the development of the adjoining Hungry Steppe) as well as silk and fruit production.",
+        "Local Muslim militias and anti-Soviet detachments in the uyezd are aligned with us."
+      ],
+      "factsRu": [
+        "Новый Ташкент находится под твёрдым контролем Ташкентского Совета, тогда как Старый город и окружающий уезд контролируются нами.",
+        "В декабре 1917 года многотысячный митинг в Ташкенте в поддержку нашей Кокандской автономии закончился расстрелом демонстрантов красногвардейцами, толкнув край к открытому вооружённому противостоянию.",
+        "Самый населённый город Туркестана. В 1910-х годах уезд стал ключевым центром хлопководства (включая освоение прилегающей Голодной степи), а также шелководства и садоводства.",
+        "Местные мусульманские дружины и антисоветские отряды в уезде выступают на нашей стороне."
+      ],
+      "factsUz": [
+        "Yangi Toşkent Toşkent Şörosining qattiq qöl ostida, Eski şahar va atrofdagi uyezd esa bizning nazoratimizda.",
+        "1917-yil dekabrida Qöqon Muxtoriyatimizni qöllab-quvvatlab ötkazilgan köp ming kişilik namoyişga qizil gvardiyaçilar öq uzişi ölkani oçiq qurolli töqnaşuv sari yetakladi.",
+        "Turkistonning eng gavjum şahri. 1910-yillarda uyezd paxtaçilik (jumladan tutaş Mirzaçölning özlaştırilişi), şuningdek ipakçilik va boğdorçilikning asosiy markaziga aylandi.",
+        "Uyezddagi mahalliy musulmon mirşablari va aksilşöro otryadlari biz tomonda turibdi."
+      ],
+      "results": {
+        "unity": 32.6,
+        "civic": 30.5,
+        "green": 4.4,
+        "liberty": 30.5,
+        "unrecognized": 2.0
+      }
+    },
+    "Jizzak": {
+      "name": "Jizzak Uyezd",
+      "nameRu": "Джизакский уезд",
+      "nameUz": "Jizzax uyezdi",
+      "capital": "Jizzak",
+      "capitalRu": "Джизак",
+      "capitalUz": "Jizzax",
+      "population": 240000,
+      "seats": 3,
+      "facts": [
+        "New Jizzak is under the authority of the local Soviet, while we control most of the uyezd.",
+        "In 1916, Jizzak Uyezd became the center of the fiercest armed uprising against the tsarist mobilization decree. Rebels led by Nazir-Khoja and Abdurakhman Jevachi killed the uyezd commandant, burned railway stations, dismantled 65 versts of Central Asian Railway track, and held Old Jizzak for several days.",
+        "Unlike the cotton-growing districts of Fergana, Jizzak Uyezd was considered the main grain-producing district of Samarkand Oblast.",
+        "Armed local detachments are active and aligned with us."
+      ],
+      "factsRu": [
+        "Новый Джизак находится под властью местного Совета, в то время как мы контролируем большую часть уезда.",
+        "В 1916 году Джизакский уезд стал центром самого ожесточённого вооружённого восстания против царского указа о мобилизации. Повстанцы во главе с Назир-Ходжой и Абдурахманом Джевачи убили уездного начальника, сожгли железнодорожные станции, разобрали 65 вёрст полотна Среднеазиатской железной дороги и несколько дней удерживали Старый Джизак.",
+        "В отличие от хлопководческих районов Ферганы, Джизакский уезд считался главной житницей Самаркандской области.",
+        "В уезде активно действуют вооружённые местные отряды, выступающие на нашей стороне."
+      ],
+      "factsUz": [
+        "Yangi Jizzax mahalliy Şöro qölida, uyezdning katta qismini esa biz boşqarmoqdamiz.",
+        "1916-yilda Jizzax uyezdi mardikorlikka oliş töğrisidagi podşoh farmoniga qarşi eng şiddatli qurolli qözğolon markaziga aylandi. Nazirxöja va Abdurahmon Jevaci boşçiligidagi qözğolonçilar uyezd hokimini öldirib, bekatlarga öt qöydilar, Örta Osiyo temiryölining 65 versta izini buzib taşladilar va Eski Jizzaxni bir neça kun qölda tutib turdilar.",
+        "Farğonaning paxtakor tumanlaridan farqli ölaroq, Jizzax uyezdi Samarqand viloyatining asosiy ğalla ombori hisoblanardi.",
+        "Uyezdda biz tomonda turgan mahalliy qurolli guruhlar faol harakat qilmoqda."
+      ],
+      "results": {
+        "unity": 24.1,
+        "civic": 17.8,
+        "green": 13.9,
+        "liberty": 40.2,
+        "unrecognized": 4.0
+      }
+    },
+    "Katta-Kurgan": {
+      "name": "Katta-Kurgan Uyezd",
+      "nameRu": "Каттакурганский уезд",
+      "nameUz": "Kattaqörğon uyezdi",
+      "capital": "Katta-Kurgan",
+      "capitalRu": "Каттакурган",
+      "capitalUz": "Kattaqörğon",
+      "population": 135000,
+      "seats": 2,
+      "facts": [
+        "The railway station and garrison in Katta-Kurgan are contested by the local Soviet, while Old Katta-Kurgan and the surrounding kishlaks are controlled by us.",
+        "The uyezd was famous for intensive irrigated agriculture in the Zeravshan Valley supported by large canals (aryks). Its coat of arms, approved shortly before the war, depicted three silver tobacco plants.",
+        "Bordering the Emirate of Bukhara along the Central Asian Railway, the uyezd serves as a vital commercial and political bridge between Samarkand and Bukharan reformists.",
+        "Strong popular backing for our autonomy across the kishlaks."
+      ],
+      "factsRu": [
+        "Железнодорожная станция и гарнизон в Каттакургане оспариваются местным Советом, тогда как Старый Каттакурган и окрестные кишлаки контролируются нами.",
+        "Уезд славился интенсивным орошаемым земледелием в Зеравшанской долине, опиравшимся на крупные каналы (арыки). На его гербе, утверждённом незадолго до войны, были изображены три серебряных куста табака.",
+        "Гранича с Бухарским эмиратом вдоль Среднеазиатской железной дороги, уезд служит важным торговым и политическим мостом между Самаркандом и бухарскими реформаторами.",
+        "В кишлаках уезда наша автономия пользуется широкой народной поддержкой."
+      ],
+      "factsUz": [
+        "Kattaqörğon temiryöl bekati va qal’asi uçun mahalliy Şöro talashmoqda, Eski Kattaqörğon va atrofdagi qişloqlar esa bizning qölimizda.",
+        "Uyezd Zarafşon vodiysidagi yirik ariqlar orqali suğoriladigan dehqonçiligi bilan maşhur edi. Uruşdan biroz oldin tasdiqlangan tamğasida uçta kumuş tamaki butasi tasvirlangan.",
+        "Örta Osiyo temiryöli böylab Buxoro amirligi bilan çegaradoş bölgan bu uyezd Samarqand va buxorolik islohotçilar örtasida muhim savdo va siyosat köprigi vazifasini ötaydi.",
+        "Uyezd qişloqlarida muxtoriyatimiz xalq orasida katta qöllab-quvvatlovga ega."
+      ],
+      "results": {
+        "unity": 31.1,
+        "civic": 28.8,
+        "green": 4.4,
+        "liberty": 28.7,
+        "unrecognized": 7.0
+      }
+    },
+    "Samarkand": {
+      "name": "Samarkand Uyezd",
+      "nameRu": "Самаркандский уезд",
+      "nameUz": "Samarqand uyezdi",
+      "capital": "Samarkand",
+      "capitalRu": "Самарканд",
+      "capitalUz": "Samarqand",
+      "population": 380000,
+      "seats": 4,
+      "facts": [
+        "Samarkand and the railway are under the authority of the local Soviet, while we control most of the uyezd.",
+        "Unlike in Tashkent, where four days of street fighting raged in November 1917, power in Samarkand passed to the Samarkand Soviet of Workers' and Soldiers' Deputies almost bloodlessly with the backing of local garrison soldiers and railway workers.",
+        "By day, the dehqans (peasants) work under Soviet authority and follow their decrees, while by night they supply food and shelter to our loyalists.",
+        "Very strong Muslim autonomy movement across the uyezd, closely aligned with us."
+      ],
+      "factsRu": [
+        "Самарканд и железная дорога находятся под властью местного Совета, в то время как мы контролируем большую часть уезда.",
+        "В отличие от Ташкента, где в ноябре 1917 года четыре дня шли уличные бои, в Самарканде власть перешла к Самаркандскому Совету рабочих и солдатских депутатов почти бескровно при поддержке солдат местного гарнизона и железнодорожников.",
+        "Днём дехкане работают при советской власти и исполняют её декреты, а ночью снабжают продовольствием и укрытием наших сторонников.",
+        "По всему уезду действует мощное движение за мусульманскую автономию, тесно связанное с нами."
+      ],
+      "factsUz": [
+        "Samarqand şahri va temiryöl mahalliy Şöro qölida, uyezdning asosiy qismini esa biz boşqarmoqdamiz.",
+        "1917-yil noyabrida tört kun davomida köça janglari bölgan Toşkentdan farqli ölaroq, Samarqandda hokimiyat mahalliy qal’a soldatlari va temiryölcilar qöllovi bilan deyarli qon tökilmasdan Samarqand İşçi va Soldat Deputatlari Şörosi qöliga ötdi.",
+        "Kunduzi dehqonlar Şöro hokimiyati ostida işlab uning buyruqlarini bajaradi, keçalari esa bizning tarafdorlarimizga oziq-ovqat va boşpana yetkazib beradi.",
+        "Butun uyezd böylab biz bilan chambarchas boğlangan kuchli musulmon muxtoriyat harakati mavjud."
+      ],
+      "results": {
+        "unity": 33.1,
+        "civic": 27.3,
+        "green": 13.9,
+        "liberty": 21.7,
+        "unrecognized": 4.0
+      }
+    },
+    "Hojant": {
+      "name": "Khojent Uyezd",
+      "nameRu": "Ходжентский уезд",
+      "nameUz": "Xöjand uyezdi",
+      "capital": "Khojent",
+      "capitalRu": "Ходжент",
+      "capitalUz": "Xöjand",
+      "population": 220000,
+      "seats": 2,
+      "facts": [
+        "Khojent and the railway are under the authority of the local Soviet, while local Muslim committees and partisans control most of the uyezd.",
+        "It was in Khojent in 1916 that the very first mass uprising in Turkestan broke out against the tsarist decree mobilizing locals for rear-line labor. Thousands of residents from the city and surrounding kishlaks marched on police headquarters demanding the destruction of the conscription lists.",
+        "A strategic railway connecting Tashkent and Samarkand with the Fergana Valley runs through the uyezd.",
+        "Strong local partisan presence; largely autonomous, yet aligned with us."
+      ],
+      "factsRu": [
+        "Ходжент и железная дорога находятся под властью местного Совета, тогда как местные мусульманские комитеты и партизанские отряды контролируют большую часть уезда.",
+        "Именно в Ходженте в 1916 году вспыхнуло самое первое массовое восстание в Туркестане против царского указа о мобилизации коренного населения на тыловые работы. Тысячи жителей города и окрестных кишлаков двинулись к полицейскому управлению, требуя уничтожить призывные списки.",
+        "Через уезд проходит стратегическая железная дорога, соединяющая Ташкент и Самарканд с Ферганской долиной.",
+        "Сильное присутствие местных вооружённых отрядов; они во многом самостоятельны, но выступают на нашей стороне."
+      ],
+      "factsUz": [
+        "Xöjand şahri va temiryöl mahalliy Şöro qölida, uyezdning katta qismini esa mahalliy musulmon qömitlari va qözğolonçi otryadlar nazorat qilmoqda.",
+        "1916-yilda yerli aholini mardikorlikka oliş haqidagi podşoh farmoniga qarşi Turkistondagi eng birinçi ommaviy qözğolon aynan Xöjandda boşlangan edi. Şahar va atrofdagi qişloqlardan kelgan minglab odamlar mirşabxona ustiga yurib, mardikorlar röyxatini yöq qilişni talab qilgan.",
+        "Uyezd orqali Toşkent va Samarqandni Farğona vodiysi bilan boğlaydigan muhim temiryöl ötadi.",
+        "Mahalliy qurolli otryadlar kuchli; ular köp jihatdan mustaqil bölsa-da, biz tomonda turibdi."
+      ],
+      "results": {
+        "unity": 39.1,
+        "civic": 32.3,
+        "green": 13.9,
+        "liberty": 12.2,
+        "unrecognized": 2.5
+      }
+    },
+    "Kokand": {
+      "name": "Kokand Uyezd",
+      "nameRu": "Кокандский уезд",
+      "nameUz": "Qöqon uyezdi",
+      "capital": "Kokand",
+      "capitalRu": "Коканд",
+      "capitalUz": "Qöqon",
+      "population": 480000,
+      "seats": 6,
+      "facts": [
+        "Our capital, completely under our control.",
+        "Kokand was known as the 'Central Asian Manchester' and the 'banking capital' of the region, housing branches of major Russian banks, a cotton exchange, and dozens of cotton-ginning and oil-pressing mills.",
+        "On November 26–28 (December 9–11, New Style), 1917, around 200 delegates from across Turkestan proclaimed the region territorially autonomous within the Russian Democratic Federative Republic.",
+        "Strong national militia and local armed detachments directly subordinate to us."
+      ],
+      "factsRu": [
+        "Наша столица, полностью находящаяся под нашим контролем.",
+        "Коканд был известен как «среднеазиатский Манчестер» и «банковская столица» края: здесь размещались отделения крупнейших российских банков, хлопковая биржа и десятки хлопкоочистительных и маслобойных заводов.",
+        "26–28 ноября (9–11 декабря по новому стилю) 1917 года около 200 делегатов со всего Туркестана провозгласили край территориально автономным в составе Российской Демократической Федеративной Республики.",
+        "Сильная национальная милиция и местные вооружённые отряды, непосредственно подчиняющиеся нам."
+      ],
+      "factsUz": [
+        "Bizning boşkentimiz, töliq öz nazoratimizda.",
+        "Qöqon «Örta Osiyo Manchesteri» va ölkaning «bank poytaxti» sifatida tanilgan bölib, bu yerda yirik rus banklarining bölimlari, paxta birjasi hamda önlab paxta tozalash va yoğ zavodlari joylaşgan edi.",
+        "1917-yil 26–28-noyabr (yangi hisobda 9–11-dekabr) kunlari butun Turkistondan kelgan 200 ga yaqin vakil ölkani Rusiya Demokratik Federativ Jumhuriyati tarkibida hududiy muxtor deb e’lon qildi.",
+        "Bevosita bizga böysunadigan kuchli milliy mirşablar va mahalliy qurolli qismlar mavjud."
+      ],
+      "results": {
+        "unity": 23.6,
+        "civic": 13.8,
+        "green": 14.4,
+        "liberty": 47.2,
+        "unrecognized": 1.0
+      }
+    },
+    "Pamir": {
+      "name": "Pamir Uyezd",
+      "nameRu": "Памирский уезд",
+      "nameUz": "Pomir uyezdi",
+      "capital": "Khorog",
+      "capitalRu": "Хорог",
+      "capitalUz": "Xoruğ",
+      "population": 30000,
+      "seats": 2,
+      "nonVotingType": "reds",
+      "reason": "Soviet Control.",
+      "reasonRu": "Под контролем советов.",
+      "reasonUz": "Şörolar qöl ostida.",
+      "facts": [
+        "Under the control of the Soldiers' Soviet of the Pamir Detachment.",
+        "On December 5 (18), 1917, the soldiers' committee of the Pamir Detachment, together with local volost committees, resolved to abolish the commissariat of the Provisional Government.",
+        "Isolated by high mountain passes from Fergana, local Pamiri communities and the Russian military Soviet govern the region independently of us."
+      ],
+      "factsRu": [
+        "Под контролем Солдатского Совета Памирского отряда.",
+        "5 (18) декабря 1917 года солдатский комитет Памирского отряда совместно с местными волостными комитетами постановил упразднить комиссариат Временного правительства.",
+        "Отрезанные от Ферганы высокогорными перевалами, местные памирские общины и русский военный Совет управляют краем независимо от нас."
+      ],
+      "factsUz": [
+        "Pomir otryadi Soldatlar Şörosi qöl ostida.",
+        "1917-yil 5 (18)-dekabr kuni Pomir otryadining soldatlar qömitasi mahalliy volost qömitlari bilan birgalikda Muvaqqat hukumat komissarligini bekor qilişga qaror qildi.",
+        "Farğonadan baland toğ dovonlari bilan ajralib qolgan bu hududni mahalliy pomirlik jamoalar va rus harbiy Şörosi bizdan mustaqil boşqarmoqda."
+      ],
+      "results": {
+        "unity": 15.0,
+        "civic": 55.0,
+        "green": 18.0,
+        "liberty": 3.0,
+        "unrecognized": 9.0
+      }
+    },
+    "Osh": {
+      "name": "Osh Uyezd",
+      "nameRu": "Ошский уезд",
+      "nameUz": "Öş uyezdi",
+      "capital": "Osh",
+      "capitalRu": "Ош",
+      "capitalUz": "Öş",
+      "population": 210000,
+      "seats": 3,
+      "facts": [
+        "We control Old Osh, Uzgen, and all settled communities, while a local Soviet has risen in New Osh. Mountainous areas remain under the control of the Biys.",
+        "Due to the lack of an industrial proletariat and a railway, power in the uyezd passed to the Soviets later than in most other districts. The Osh Soviet relied on local garrison soldiers and Russian peasant settlers.",
+        "In the mountain volosts (Gulcha and Alay) and along the strategic Pamir Highway, real power rests with traditional leaders (manaps and biys), notably the sons and grandsons of the 'Queen of Alay,' Kurmanjan Datka (such as Kadyrbek and Jamshidbek), who control the nomadic pastures and Taldyk Pass.",
+        "Strong local Muslim militias loyal to us; Kyrgyz nomads control the highlands and remain neutral-to-friendly toward us."
+      ],
+      "factsRu": [
+        "Мы контролируем Старый Ош, Узген и все оседлые поселения, тогда как в Новом Оше возник местный Совет. Горные районы остаются под властью биев.",
+        "Из-за отсутствия промышленного пролетариата и железной дороги власть в уезде перешла к Советам позже, чем в большинстве других районов. Ошский Совет опирался на солдат местного гарнизона и русских крестьян-переселенцев.",
+        "В горных волостях (Гульча и Алай) и вдоль стратегического Памирского тракта реальная власть принадлежит традиционным вождям (манапам и биям), прежде всего сыновьям и внукам «Алайской царицы» Курманжан-датки (таким как Кадырбек и Джамшидбек), контролирующим кочевые пастбища и перевал Талдык.",
+        "Сильные местные мусульманские дружины, лояльные нам; киргизские кочевники контролируют высокогорья и сохраняют по отношению к нам нейтрально-дружественную позицию."
+      ],
+      "factsUz": [
+        "Eski Öş, Özgan va barcha ötroq qişloqlar bizning nazoratimizda, Yangi Öşda esa mahalliy Şöro tuzilgan. Toğli hududlar biylar qölida qolmoqda.",
+        "Sanoat işcilari va temiryöl yöqligi sababli uyezdda hokimiyat Şörolar qöliga boşqa tumanlarga qaraganda kechroq ötdi. Öş Şörosi mahalliy qal’a soldatlari va rus köçmançi dehqonlariga tayangan.",
+        "Toğli volostlarda (Gulça va Olay) hamda strategik Pomir yöli böylab haqiqiy hokimiyat an’anaviy boşliqlar — manap va biylar, xususan «Olay malikasi» Qurbonjon Dodxoning öğil va nabiralari (Qodirbek va Jamşidbek kabi) qölida bölib, ular yaylovlar va Toldiq dovonini nazorat qiladi.",
+        "Bizga sodiq mahalliy musulmon otryadlari kuchli; baland toğlarni egallagan qirğiz köçmançilari esa bizga nisbatan betaraf-döstona munosabatda."
+      ],
+      "results": {
+        "unity": 19.6,
+        "civic": 17.8,
+        "green": 17.4,
+        "liberty": 29.2,
+        "unrecognized": 16.0
+      }
+    },
+    "Skobelev": {
+      "name": "Skobelev Uyezd",
+      "nameRu": "Скобелевский уезд",
+      "nameUz": "Skobelev (Yangi Marğilon) uyezdi",
+      "capital": "Skobelev",
+      "capitalRu": "Скобелев",
+      "capitalUz": "Skobelev",
+      "population": 430000,
+      "seats": 5,
+      "facts": [
+        "We control the entire uyezd except for Skobelev (New Margelan), where a Russian Soviet has risen. Workers' settlements side with the Soviet, while all kishlaks side with us.",
+        "In the early 20th century, rich oil deposits were discovered in the foothills near the kishlak of Chimion, and in 1907 the region's first oil refinery and pipeline were built near Vannovskaya station (now Altyaryk).",
+        "Strong local armed detachments loyal to us; the Skobelev Soviet is openly hostile!"
+      ],
+      "factsRu": [
+        "Мы контролируем весь уезд, за исключением Скобелева (Нового Маргелана), где возник русский Совет. Рабочие посёлки поддерживают Совет, тогда как все кишлаки выступают на нашей стороне.",
+        "В начале XX века в предгорьях близ кишлака Чимион были открыты богатые нефтяные месторождения, а в 1907 году у станции Ванновская (ныне Алтыарык) построили первый в регионе нефтеперерабатывающий завод и нефтепровод.",
+        "Сильные местные вооружённые отряды, лояльные нам; Скобелевский Совет открыто враждебен!"
+      ],
+      "factsUz": [
+        "Rus Şörosi tuzilgan Skobelev (Yangi Marğilon) şahridan taşqari butun uyezd bizning nazoratimizda. İşcilar qişloqlari Şöro tomonida, barcha qişloqlar esa biz tarafda.",
+        "XX asr boşlarida Çimyon qişloği yaqinidagi toğ etaklarida boy neft konlari topilib, 1907-yilda Vannovskaya (hozirgi Oltiariq) bekati yonida ölkadagi birinçi neftni qayta işlash zavodi va quvuri qurilgan.",
+        "Bizga sodiq mahalliy qurolli otryadlar kuchli; Skobelev Şörosi esa oçiqdan-oçiq duşmanlik qilmoqda!"
+      ],
+      "results": {
+        "unity": 29.6,
+        "civic": 22.8,
+        "green": 9.4,
+        "liberty": 35.7,
+        "unrecognized": 2.5
+      }
+    },
+    "Namangan": {
+      "name": "Namangan Uyezd",
+      "nameRu": "Наманганский уезд",
+      "nameUz": "Namangan uyezdi",
+      "capital": "Namangan",
+      "capitalRu": "Наманган",
+      "capitalUz": "Namangan",
+      "population": 450000,
+      "seats": 5,
+      "facts": [
+        "We control the Old City and surrounding kishlaks, while workers and soldiers in New Namangan side with the local Soviet.",
+        "Rallies of many thousands took place in Namangan, establishing organs of autonomy and national militia detachments. Even after the Soviet of Workers' and Soldiers' Deputies seized New Namangan and the fortress in December 1917, the Old City remains firmly under our control.",
+        "Old Namangan and Chust are regarded as major centers of Islamic scholarship and Sufism in the Fergana Valley.",
+        "Strong local militias loyal to us; the New Namangan Soviet is hostile!"
+      ],
+      "factsRu": [
+        "Мы контролируем Старый город и окрестные кишлаки, тогда как рабочие и солдаты в Новом Намангане поддерживают местный Совет.",
+        "В Намангане проходили многотысячные митинги, создавались органы автономии и отряды национальной милиции. Даже после того как Совет рабочих и солдатских депутатов в декабре 1917 года захватил Новый Наманган и крепость, Старый город остаётся под нашим твёрдым контролем.",
+        "Старый Наманган и Чуст считаются крупнейшими центрами исламской учёности и суфизма в Ферганской долине.",
+        "Сильные местные дружины, лояльные нам; Ново-Наманганский Совет враждебен!"
+      ],
+      "factsUz": [
+        "Eski şahar va atrofdagi qişloqlar bizning nazoratimizda, Yangi Namangandagi işcilar va soldatlar esa mahalliy Şöro tomonida.",
+        "Namanganda köp ming kişilik yiğilişlar ötib, muxtoriyat idoralari va milliy mirşab otryadlari tuzildi. 1917-yil dekabrida İşçi va Soldat Deputatlari Şörosi Yangi Namangan va qal’ani egallagandan söng ham Eski şahar qattiq nazoratimizda qolmoqda.",
+        "Eski Namangan va Çust Farğona vodiysida İslom ilmi va tasavvufning yirik markazlari hisoblanadi.",
+        "Bizga sodiq mahalliy mirşab qismlari kuchli; Yangi Namangan Şörosi esa duşmanlik kayfiyatida!"
+      ],
+      "results": {
+        "unity": 34.6,
+        "civic": 22.8,
+        "green": 9.4,
+        "liberty": 30.7,
+        "unrecognized": 2.5
+      }
+    },
+    "Andijan": {
+      "name": "Andijan Uyezd",
+      "nameRu": "Андижанский уезд",
+      "nameUz": "Andijon uyezdi",
+      "capital": "Andijan",
+      "capitalRu": "Андижан",
+      "capitalUz": "Andijon",
+      "population": 470000,
+      "seats": 5,
+      "facts": [
+        "We control the entire uyezd except for New Andijan, where a Russian Soviet has risen. Workers' settlements side with the Soviet, while all kishlaks side with us.",
+        "Terminus of the Central Asian Railway and a major industrial hub.",
+        "As in other cities of the valley, Muslim committees supporting our Kokand Autonomy wield strong influence in Old Andijan and the surrounding kishlaks.",
+        "Strong local militias loyal to us; the New Andijan Soviet is hostile!"
+      ],
+      "factsRu": [
+        "Мы контролируем весь уезд, за исключением Нового Андижана, где возник русский Совет. Рабочие посёлки поддерживают Совет, тогда как все кишлаки выступают на нашей стороне.",
+        "Конечная станция Среднеазиатской железной дороги и крупный промышленный узел.",
+        "Как и в других городах долины, мусульманские комитеты, поддерживающие нашу Кокандскую автономию, пользуются большим влиянием в Старом Андижане и окрестных кишлаках.",
+        "Сильные местные дружины, лояльные нам; Ново-Андижанский Совет враждебен!"
+      ],
+      "factsUz": [
+        "Rus Şörosi tuzilgan Yangi Andijondan taşqari butun uyezd bizning qölimizda. İşcilar qişloqlari Şöro tomonida, barcha qişloqlar esa biz tarafda.",
+        "Örta Osiyo temiryölining sönggi bekati va yirik sanoat markazi.",
+        "Vodiydagi boşqa şaharlarda bölgani kabi, Qöqon Muxtoriyatimizni qöllovçi musulmon qömitlari Eski Andijon va atrofdagi qişloqlarda katta nufuzga ega.",
+        "Bizga sodiq mahalliy mirşab otryadlari kuchli; Yangi Andijon Şörosi esa oçiq duşman!"
+      ],
+      "results": {
+        "unity": 33.6,
+        "civic": 22.8,
+        "green": 9.4,
+        "liberty": 30.7,
+        "unrecognized": 3.5
+      }
+    },
+    "Pishpek": {
+      "name": "Pishpek Uyezd",
+      "nameRu": "Пишпекский уезд",
+      "nameUz": "Pişpek uyezdi",
+      "capital": "Pishpek",
+      "capitalRu": "Пишпек",
+      "capitalUz": "Pişpek",
+      "population": 300000,
+      "seats": 3,
+      "nonVotingType": "Independent",
+      "reason": "The city doesn't recognize any government, what a mess.",
+      "reasonRu": "Город не признает никакую власть, ну и бардак.",
+      "reasonUz": "Şahar heç bir hukumatni tan olmayapti, töliq boşivuzdoqlik.",
+      "facts": [
+        "Pishpek Uyezd is deeply fractured without central authority: its Duma recognizes neither us nor Soviet power, while Alash Orda, peasant settler Soviets, and our supporters divide the countryside.",
+        "In the summer and autumn of 1916, Pishpek Uyezd saw a fierce armed uprising by Kyrgyz and Kazakhs against rear-line labor mobilization and the mass seizure of land for settler plots. Throughout 1917, surviving refugees returned from China without livestock or property, triggering acute land clashes with armed peasant settlers.",
+        "Shura-i-Islamiya committees and Alash Orda organizers compete for influence across the nomadic volosts and the Naryn sector, while anti-Bolshevik officers gain ground in Pishpek."
+      ],
+      "factsRu": [
+        "Пишпекский уезд глубоко расколот и лишён единой власти: городская дума не признаёт ни нас, ни советскую власть, а Алаш-Орда, Советы крестьян-переселенцев и наши сторонники делят сельские волости.",
+        "Летом и осенью 1916 года в Пишпекском уезде вспыхнуло ожесточённое вооружённое восстание киргизов и казахов против мобилизации на тыловые работы и массового изъятия земель под переселенческие участки. На протяжении 1917 года выжившие беженцы возвращались из Китая без скота и имущества, что вызывало острые земельные столкновения с вооружёнными переселенцами.",
+        "Комитеты «Шура-и-Исламия» и организаторы Алаш-Орды соперничают за влияние в кочевых волостях и на Нарынском участке, тогда как в самом Пишпеке усиливаются антибольшевистские офицеры."
+      ],
+      "factsUz": [
+        "Pişpek uyezdi yagona hokimiyatsiz chuqur parokandalikka tushgan: şahar dumasi na bizni, na Şöro hokimiyatini tan oladi; qişloq volostlari esa Alaş Örda, köçmançi mujiklar Şörolari va bizning tarafdorlarimiz örtasida bölingan.",
+        "1916-yil yozi va kuzida Pişpek uyezdida mardikorlikka oliş hamda yerlarning köçmançilar uçun tortib olinişiga qarşi qirğiz va qozoqlarning şiddatli qurolli qözğoloni bölib ötdi. 1917-yil davomida Xitoydan chorva va mol-mulksiz qaytgan qoçqinlar qurollangan rus köçmançilari bilan keskin yer töqnaşuvlariga kirishdi.",
+        "«Şöroyi İslomiya» qömitlari va Alaş Örda taşkilotçilari köçmançi volostlar hamda Norin hududida ta’sir uçun raqobatlaşmoqda, Pişpekning özida esa aksilbolşevik ofitserlar kuchaymoqda."
+      ],
+      "results": {
+        "unity": 16.0,
+        "civic": 20.0,
+        "green": 22.0,
+        "liberty": 10.0,
+        "unrecognized": 19.0,
+        "alash": 13.0
+      }
+    },
+    "Przhevalsk": {
+      "name": "Przhevalsk Uyezd",
+      "nameRu": "Пржевальский уезд",
+      "nameUz": "Prjevalsk uyezdi",
+      "capital": "Przhevalsk",
+      "capitalRu": "Пржевальск",
+      "capitalUz": "Prjevalsk",
+      "population": 130000,
+      "seats": 2,
+      "facts": [
+        "Isolated and divided between armed Russian peasant settler committees and Alash Orda authorities, with limited direct ties to us.",
+        "In the summer of 1916, a fierce uprising erupted here, marked by mutual pogroms, the deaths of hundreds of peasant settlers, and brutal punitive military expeditions.",
+        "Settlers back local Soviets to protect seized lands, while Kyrgyz leaders increasingly orient toward Alash Orda."
+      ],
+      "factsRu": [
+        "Изолированный уезд, разделённый между вооружёнными комитетами русских крестьян-переселенцев и властями Алаш-Орды, при ограниченных прямых связях с нами.",
+        "Летом 1916 года здесь вспыхнуло ожесточённое восстание, сопровождавшееся взаимными погромами, гибелью сотен крестьян-переселенцев и жестокими карательными экспедициями войск.",
+        "Переселенцы поддерживают местные Советы ради защиты занятых земель, тогда как киргизские лидеры всё больше ориентируются на Алаш-Орду."
+      ],
+      "factsUz": [
+        "Biz bilan bevosita aloqalari cheklangan, qurollangan rus köçmançi dehqonlari qömitlari va Alaş Örda hokimiyatlari örtasida bölinib qolgan chekka uyezd.",
+        "1916-yil yozida bu yerda şiddatli qözğolon kötarilib, özaro qirğinlar, yuzlab köçmançi dehqonlarning halok bölişi va qoşinning şafqatsiz jazo yurishlari bilan kechdi.",
+        "Köçmançilar egallab olgan yerlarini saqlab qoliş uçun mahalliy Şörolarni qöllaydi, qirğiz oqsoqollari esa tobora Alaş Ördaga yuz tutmoqda."
+      ],
+      "results": {
+        "unity": 9.0,
+        "civic": 25.0,
+        "green": 15.0,
+        "liberty": 18.0,
+        "unrecognized": 33.0
+      }
+    },
+    "Verniy": {
+      "name": "Verniy Uyezd",
+      "nameRu": "Верненский уезд",
+      "nameUz": "Verniy (Olmaota) uyezdi",
+      "capital": "Verniy",
+      "capitalRu": "Верный",
+      "capitalUz": "Verniy",
+      "population": 300000,
+      "seats": 4,
+      "nonVotingType": "alash",
+      "reason": "Alash controls most of the region.",
+      "reasonRu": "Алаш контролирует большую часть региона.",
+      "reasonUz": "Hududning katta qismini «Alaş» nazorat qilmoqda.",
+      "facts": [
+        "Under the control of the Semirechye Cossack Host and Alash Orda coalition. We lay claim to it.",
+        "Immediately after the October Revolution, the Host Government of the Semirechye Cossack Host — backed by officers, Provisional Government bodies, and the regional committee of the Alash party — dispersed the pro-Bolshevik Soviet, declared martial law in Verniy, and established authority over the uyezd.",
+        "Alash Orda and the Cossack Host dominate regional politics, leaving little room for our influence."
+      ],
+      "factsRu": [
+        "Под контролем коалиции Семиреченского казачьего войска и Алаш-Орды. Мы предъявляем права на уезд.",
+        "Сразу после Октябрьской революции Войсковое правительство Семиреченского казачьего войска — при поддержке офицеров, органов Временного правительства и областного комитета партии «Алаш» — разогнало пробольшевистский Совет, объявило в Верном военное положение и установило власть над уездом.",
+        "Алаш-Орда и казачье войско доминируют в политической жизни региона, оставляя мало места для нашего влияния."
+      ],
+      "factsUz": [
+        "Yettisuv kazak qöşini va Alaş Örda ittifoqi qöl ostida. Biz bu uyezdga öz haqimizni bildiramiz.",
+        "Oktabr töntarişidan darhol söng Yettisuv kazak qöşinining Harbiy hukumati — ofitserlar, Muvaqqat hukumat idoralari va «Alaş» partiyasi viloyat qömitasi qöllovi bilan — bolşevikparast Şöroni tarqatib yubordi, Verniyda harbiy holat e’lon qildi va uyezd ustidan hokimiyat örnatdi.",
+        "Ölka siyosiy hayotida Alaş Örda va kazak qöşini hukmron bölib, bizning ta’sirimizga kam örin qoldirgan."
+      ],
+      "results": {
+        "unity": 8.0,
+        "civic": 9.0,
+        "green": 39.0,
+        "liberty": 13.0,
+        "alash": 31.0
+      }
+    },
+    "Dzharkent": {
+      "name": "Dzharkent Uyezd",
+      "nameRu": "Джаркентский уезд",
+      "nameUz": "Jarkent uyezdi",
+      "capital": "Dzharkent",
+      "capitalRu": "Джаркент",
+      "capitalUz": "Jarkent",
+      "population": 115000,
+      "seats": 3,
+      "nonVotingType": "alash",
+      "reason": "Alash controls most of the region.",
+      "reasonRu": "Алаш контролирует большую часть региона.",
+      "reasonUz": "Hududning katta qismini «Alaş» nazorat qilmoqda.",
+      "facts": [
+        "Contested by the Semirechye Cossack Host, local Alash committees, and the Dzharkent Soviet; we lay claim to the uyezd.",
+        "Bordering China's Ili (Kulja) region, the uyezd held the largest concentration of Ili Uyghurs (Taranchis) and Dungans in Semirechye, alongside Kazakh clans (chiefly Suan and Alban) and Semirechye Cossack stanitsas.",
+        "In July–August 1916, the uyezd became a major flashpoint of the anti-conscription uprising; out of 17,096 nomadic households, over 12,700 fled into Xinjiang, with destitute survivors returning through 1917 amid acute land and food shortages.",
+        "Alash Orda and Semirechye Cossacks dominate the countryside and border crossings, while support for us remains limited."
+      ],
+      "factsRu": [
+        "Оспаривается Семиреченским казачьим войском, местными комитетами «Алаш» и Джаркентским Советом; мы предъявляем права на уезд.",
+        "Гранича с Илийским (Кульджинским) краем Китая, уезд сосредоточил крупнейшую в Семиречье общину илийских уйгуров (таранчей) и дунган наряду с казахскими родами (главным образом суан и албан) и станицами Семиреченского казачьего войска.",
+        "В июле — августе 1916 года уезд стал одним из главных очагов восстания против тыловой мобилизации: из 17 096 кочевых хозяйств свыше 12 700 бежали в Синьцзян, а разорённые уцелевшие жители возвращались на протяжении 1917 года в условиях острого земельного и продовольственного кризиса.",
+        "Алаш-Орда и семиреченские казаки контролируют сельскую местность и пограничные переходы, тогда как наша поддержка здесь остаётся ограниченной."
+      ],
+      "factsUz": [
+        "Yettisuv kazak qöşini, mahalliy «Alaş» qömitlari va Jarkent Şörosi örtasida talashda; biz uyezdga da’vogarmiz.",
+        "Xitoyning İli (Ğulja) ölkasi bilan çegaradoş bölgan bu uyezdda Yettisuvdagi eng yirik İli uyğurlari (tarançilar) va dungan jamoalari, şuningdek qozoq uruğlari (asosan suvon va olbon) hamda Yettisuv kazak stanitsalari joylaşgan edi.",
+        "1916-yil iyul–avgust oylarida uyezd mardikorlikka qarşi qözğolonning asosiy öçoqlaridan biriga aylandi: 17 096 köçmançi xöjalikdan 12 700 dan ortiği Şinjonga qoçib ketdi, xonavayron bölgan omon qolganlar esa 1917-yil davomida oğir yer va oziq-ovqat tanqisligi şaroitida ortga qayta boşladi.",
+        "Qişloq joylar va çegara ötiş yöllarini Alaş Örda hamda Yettisuv kazaklari nazorat qilmoqda, bizga bölgan tayanç esa cheklangan."
+      ],
+      "results": {
+        "unity": 10.0,
+        "civic": 10.0,
+        "green": 21.0,
+        "liberty": 9.0,
+        "alash": 23.0,
+        "unrecognized": 20.0
+      }
+    },
+    "Kopal": {
+      "name": "Kopal Uyezd",
+      "nameRu": "Копальский уезд",
+      "nameUz": "Qopal uyezdi",
+      "capital": "Kopal",
+      "capitalRu": "Копал",
+      "capitalUz": "Qopal",
+      "population": 195000,
+      "seats": 3,
+      "nonVotingType": "alash",
+      "reason": "Alash controls most of the region.",
+      "reasonRu": "Алаш контролирует большую часть региона.",
+      "reasonUz": "Hududning katta qismini «Alaş» nazorat qilmoqda.",
+      "facts": [
+        "Under the authority of the Alash-Cossack coalition and local self-government, though a Uyezd Congress of Soviets convened in November 1917. We lay claim to it.",
+        "Stretching from Lake Balkhash to the Dzungarian Alatau, the uyezd was overwhelmingly pastoral Kazakh (over 90% in the 1897 census), interspersed with Semirechye Cossack stanitsas and peasant settler villages.",
+        "In September 1916, armed clashes broke out between Kazakh rebels and tsarist punitive detachments along the Vezhi River, while in November–December 1917 local delegates organized Alash committees and electoral boards for the All-Russian Constituent Assembly.",
+        "Alash Orda and Semirechye Cossacks hold dominant influence across the uyezd."
+      ],
+      "factsRu": [
+        "Находится под властью коалиции Алаш-Орды и казачества и органов местного самоуправления, хотя в ноябре 1917 года здесь собрался уездный съезд Советов. Мы предъявляем права на уезд.",
+        "Простираясь от озера Балхаш до Джунгарского Алатау, уезд был преимущественно казахским скотоводческим (свыше 90% по переписи 1897 года) с вкраплениями станиц Семиреченского казачьего войска и переселенческих крестьянских сёл.",
+        "В сентябре 1916 года вдоль реки Вежи происходили вооружённые столкновения казахских повстанцев с царскими карательными отрядами, а в ноябре — декабре 1917 года местные делегаты организовали комитеты «Алаш» и избирательные комиссии по выборам во Всероссийское Учредительное собрание.",
+        "Алаш-Орда и семиреченские казаки обладают преобладающим влиянием по всему уезду."
+      ],
+      "factsUz": [
+        "Alaş Örda va kazaklar ittifoqi hamda mahalliy özini özi boşqariş idoralari qöl ostida, garchi 1917-yil noyabrida bu yerda uyezd Şörolar qurultoyi yiğilgan bölsa ham. Biz uyezdga da’vogarmiz.",
+        "Balxaş kölidan Junğor Olatovigaça çöziilgan uyezd aholisining mutlaq köpçiligi (1897-yilgi röyxat böyiça 90% dan ortiği) chorvador qozoqlar bölib, ular orasida Yettisuv kazak stanitsalari va köçmançi dehqon qişloqlari joylaşgan edi.",
+        "1916-yil sentabrida Veji daryosi böylab qozoq qözğolonçilari va podşoh jazo otryadlari örtasida qurolli töqnaşuvlar yuz berdi, 1917-yil noyabr–dekabr oylarida esa mahalliy vakillar «Alaş» qömitlari hamda Umumrusiya Ta’sis Majlisiga saylov komissiyalarini tuzdilar.",
+        "Butun uyezd böylab Alaş Örda va Yettisuv kazaklari ustun ta’sirga ega."
+      ],
+      "results": {
+        "unity": 9.0,
+        "civic": 17.0,
+        "green": 28.0,
+        "liberty": 10.0,
+        "alash": 36.0
+      }
+    },
+    "Lepsinsk": {
+      "name": "Lepsinsk Uyezd",
+      "nameRu": "Лепсинский уезд",
+      "nameUz": "Lepsinsk uyezdi",
+      "capital": "Lepsinsk",
+      "capitalRu": "Лепсинск",
+      "capitalUz": "Lepsinsk",
+      "population": 235000,
+      "seats": 3,
+      "nonVotingType": "alash",
+      "reason": "Alash controls most of the region.",
+      "reasonRu": "Алаш контролирует большую часть региона.",
+      "reasonUz": "Hududning katta qismini «Alaş» nazorat qilmoqda.",
+      "facts": [
+        "Contested between the Alash-Cossack coalition, peasant settler committees, and pro-Soviet frontline returnees; we lay claim to it.",
+        "Between 1906 and 1916, Stolypin agrarian resettlement brought large numbers of Ukrainian and Russian peasants into the uyezd, establishing 17 new settlements alongside older Cossack stanitsas in Lepsinsk and Sergiopol.",
+        "In late July 1916, anti-mobilization unrest erupted across the uyezd, prompting thousands of Kazakh nomads to cross into Xinjiang; in late 1917, Alash leaders including Otynshy Alzhanov organized local Alash militia detachments to maintain order.",
+        "Alash Orda and Semirechye Cossacks are dominant in the steppe and stanitsas, while Russian peasant villages are deeply divided over land."
+      ],
+      "factsRu": [
+        "Оспаривается коалицией Алаш-Орды и казачества, комитетами крестьян-переселенцев и просоветски настроенными фронтовиками; мы предъявляем права на уезд.",
+        "В 1906–1916 годах столыпинское аграрное переселение привело в уезд множество украинских и русских крестьян, основавших 17 новых посёлков наряду со старыми казачьими станицами в Лепсинске и Сергиополе.",
+        "В конце июля 1916 года уезд охватили волнения против тыловой мобилизации, вынудившие тысячи казахских кочевников уйти в Синьцзян; в конце 1917 года лидеры «Алаш», включая Отыншы Альжанова, сформировали местные отряды алашской милиции для поддержания порядка.",
+        "Алаш-Орда и семиреченские казаки преобладают в степи и станицах, тогда как русские крестьянские сёла глубоко расколоты по земельному вопросу."
+      ],
+      "factsUz": [
+        "Alaş Örda–kazaklar ittifoqi, köçmançi dehqonlar qömitlari va Şöro tarafdori bölgan frontçilar örtasida talashda; biz uyezdga da’vogarmiz.",
+        "1906–1916-yillarda Stolipin yer islohoti natijasida uyezdga köplab ukrain va rus dehqonlari köçirib keltirilib, Lepsinsk va Sergiopoldagi eski kazak stanitsalari yonida 17 ta yangi qişloq barpo etildi.",
+        "1916-yil iyul oxirida uyezdda mardikorlikka qarşi ğalayonlar boşlanib, minglab qozoq köçmançilari Şinjonga ötişga majbur böldi; 1917-yil oxirida esa Otinşi Aljonov kabi «Alaş» yetakçilari tartibni saqlash uçun mahalliy Alaş mirşab otryadlarini tuzdilar.",
+        "Dasht va stanitsalarda Alaş Örda hamda Yettisuv kazaklari ustun, rus mujik qişloqlari esa yer masalasida ikkiga bölinib qolgan."
+      ],
+      "results": {
+        "unity": 8.0,
+        "civic": 25.0,
+        "green": 31.0,
+        "liberty": 9.0,
+        "alash": 27.0
+      }
+    }
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Fourth Regional Muslim Congress proclaims Turkestan Autonomy in Kokand",
+      "titleRu": "IV Краевой мусульманский съезд провозгласил Туркестанскую автономию в Коканде",
+      "titleUz": "IV Ölka Musulmonlar Qurultoyi Qöqonda Turkiston Muxtoriyatini e’lon qildi",
+      "date": "1917-12-10",
+      "category": "Autonomy",
+      "categoryRu": "Автономия",
+      "categoryUz": "Muxtoriyat",
+      "summary": "Around 200 delegates meeting in Kokand voted unanimously to establish territorial autonomy within a democratic federal Russia and elected a Provisional People's Council.",
+      "summaryRu": "Около 200 делегатов, собравшихся в Коканде, единогласно постановили провозгласить территориальную автономию в составе демократической федеративной России и избрали Временный Народный Совет.",
+      "summaryUz": "Qöqonda yiğilgan 200 ga yaqin vakil bir ovozdan demokratik federativ Rusiya tarkibida hududiy muxtoriyat tuzişga qaror qildi va Muvaqqat Xalq Şörosini sayladi.",
+      "content": "KOKAND — Concluding three days of emergency deliberations on November 27 (December 10, New Style), 1917, the Fourth Extraordinary Regional Muslim Congress formally proclaimed the territorial autonomy of Turkestan in union with the Russian Democratic Federative Republic.\n\nConvened in response to the Tashkent Soviet's refusal to include Muslim representatives in the regional Council of People's Commissars, the Congress elected a 54-member Provisional People's Council alongside a Provisional Government headed by Prime Minister Mukhamedzhan Tynyshpaev.\n\nDelegates declared that the new autonomous authorities will safeguard the rights of all nationalities residing in Turkestan while preparing elections to a Constituent Assembly of Turkestan.",
+      "contentRu": "КОКАНД — Завершив трёхдневные экстренные заседания 27 ноября (10 декабря по новому стилю) 1917 года, IV Чрезвычайный краевой мусульманский съезд торжественно провозгласил территориальную автономию Туркестана в единении с Российской Демократической Федеративной Республикой.\n\nСозванный в ответ на отказ Ташкентского Совета допустить представителей мусульманского населения в краевой Совет народных комиссаров, съезд избрал Временный Народный Совет из 54 членов и Временное правительство во главе с премьер-министром Мухамеджаном Тынышпаевым.\n\nДелегаты постановили, что новые органы автономии обеспечат права всех народностей, населяющих Туркестан, и подготовят созыв Учредительного собрания Туркестана.",
+      "contentUz": "QÖQON — 1917-yil 27-noyabr (yangi hisobda 10-dekabr) kuni uç kunlik favqulodda kengaşni yakunlagan IV Favqulodda Ölka Musulmonlar Qurultoyi Turkistonni Rusiya Demokratik Federativ Jumhuriyati bilan birlikda hududiy muxtor deb tantanali ravishda e’lon qildi.\n\nToşkent Şörosi musulmon vakillarini ölka Xalq Komissarlari Şörosiga kiritişdan boş tortganiga javoban çaqirilgan qurultoy 54 kishidan iborat Muvaqqat Xalq Şörosini hamda Boş vazir Muhammadjon Tinişboyev boşçiligidagi Muvaqqat Hukumatni sayladi.\n\nVakillar yangi muxtoriyat idoralari Turkistonda yaşovçi barcha millat va elatlarning huquqlarini himoya qilişini hamda Turkiston Ta’sis Majlisiga saylovlar tayyorlaşini ma’lum qildilar."
+    },
+    {
+      "id": 2,
+      "title": "Tashkent rally for Turkestan Autonomy dispersed by Red Guard gunfire",
+      "titleRu": "Митинг в Ташкенте в поддержку Туркестанской автономии разогнан огнём красногвардейцев",
+      "titleUz": "Toşkentda Turkiston Muxtoriyatini qöllab-quvvatlagan namoyiş qizil gvardiyaçilar öqi bilan tarqatildi",
+      "date": "1917-12-26",
+      "category": "Crisis",
+      "categoryRu": "Кризис",
+      "categoryUz": "Tahlikali vaziyat",
+      "summary": "A peaceful demonstration of tens of thousands in Tashkent ended in bloodshed after Soviet garrison forces opened fire near the citadel.",
+      "summaryRu": "Мирная демонстрация десятков тысяч жителей Ташкента закончилась кровопролитием после того, как силы советского гарнизона открыли огонь у крепости.",
+      "summaryUz": "Toşkentda ön minglab aholining tinç namoyişi qal’a yaqinida Şöro askarlari öq uzişi oqibatida qon tökilişi bilan tugadi.",
+      "content": "TASHKENT — On December 13 (December 26, New Style), 1917, tens of thousands of residents marched from Old Tashkent in a peaceful procession timed to the Prophet's birthday (Mawlid) to express public support for the newly proclaimed Kokand Autonomy.\n\nAs demonstrators approached the perimeter between the Old and New cities to demand the release of political prisoners, armed Red Guards and garrison units opened fire, leaving dozens dead and wounded in the streets.\n\nLeaders of Shura-i-Islamiya and Shura-i-Ulema condemned the shootings, warning that the Tashkent Soviet has severed all prospects for peaceful power-sharing across Syr Darya and Fergana.",
+      "contentRu": "ТАШКЕНТ — 13 (26) декабря 1917 года десятки тысяч жителей вышли из Старого Ташкента на мирное шествие, приуроченное ко дню рождения Пророка (Мавлид), чтобы выразить поддержку провозглашённой Кокандской автономии.\n\nКогда участники шествия приблизились к границе между Старым и Новым городом с требованием освободить политических заключённых, вооружённые красногвардейцы и части гарнизона открыли огонь, оставив на улицах десятки убитых и раненых.\n\nЛидеры «Шура-и-Исламия» и «Шура-и-Улема» осудили расстрел, заявив, что Ташкентский Совет перечеркнул возможность мирного разделения власти в Сырдарьинской и Ферганской областях.",
+      "contentUz": "TOŞKENT — 1917-yil 13 (26)-dekabr kuni ön minglab aholi Payğambarimiz tavallud kuni (Mavlud) munosabati bilan yangi e’lon qilingan Qöqon Muxtoriyatini qöllab-quvvatlaş uçun Eski Toşkentdan tinç yurishga çiqdi.\n\nNamoyişçilar siyosiy mahbuslarni ozod qiliş talabi bilan Eski va Yangi şahar çegarasiga yaqinlaşganda qurollangan qizil gvardiyaçilar va qal’a qismlari öq uzdi; natijada köçalarda önlab odamlar halok böldi va yaralandi.\n\n«Şöroyi İslomiya» va «Şöroyi Ulamo» yetakçilari bu qonli voqeani qattiq qoralab, Toşkent Şörosi Sirdaryo va Farğona viloyatlarida hokimiyatni tinç yöl bilan bölişiş umidini yöqqa çiqarganini bildirdilar."
+    },
+    {
+      "id": 3,
+      "title": "All-Kazakh Congress in Orenburg proclaims rival Alash Autonomy",
+      "titleRu": "Всеказахский съезд в Оренбурге провозгласил автономию Алаш",
+      "titleUz": "Orenburgdagi Umumqozoq qurultoyi Alaş Muxtoriyatini e’lon qildi",
+      "date": "1917-12-25",
+      "category": "Steppe & Semirechye",
+      "categoryRu": "Степь и Семиречье",
+      "categoryUz": "Dasht va Yettisuv",
+      "summary": "Delegates led by Alikhan Bukeikhanov formed the Alash Orda People's Council, claiming Syr Darya and Semirechye and complicating coordination with Kokand.",
+      "summaryRu": "Делегаты во главе с Алиханом Букейхановым образовали Народный Совет Алаш-Орды, заявив права на Сырдарьинскую и Семиреченскую области и осложнив координацию с Кокандом.",
+      "summaryUz": "Alixon Bökeyxonov boşçiligidagi vakillar Alaş Örda Xalq Şörosini tuzib, Sirdaryo va Yettisuv viloyatlariga da’vo qildilar hamda Qöqon bilan kelishuvni qiyinlaştirib qöydilar.",
+      "content": "ORENBURG — Meeting from December 5 to 13 (December 18–26, New Style), 1917, the Second All-Kazakh Congress proclaimed the autonomy of the Kazakh-Kyrgyz regions and elected the 25-member Alash Orda People's Council under chairman Alikhan Bukeikhanov.\n\nThe Congress asserted jurisdiction over Semirechye and northern Syr Darya oblasts — territories also claimed by our Kokand government — and authorized the immediate formation of a national militia to halt anarchy and land clashes between returning 1916 refugees and peasant settlers.\n\nObservers in Kokand note that while Alash leaders share our opposition to Bolshevism, dual claims over Aulie-Ata, Chimkent, and Pishpek remain unresolved.",
+      "contentRu": "ОРЕНБУРГ — Заседавший с 5 по 13 (18–26) декабря 1917 года II Всеказахский съезд провозгласил автономию казахско-киргизских областей и избрал Народный Совет «Алаш-Орды» из 25 членов под председательством Алихана Букейханова.\n\nСъезд заявил юрисдикцию над Семиреченской и северной частью Сырдарьинской областей — территориями, на которые также претендует наше Кокандское правительство, — и постановил немедленно формировать народную милицию для прекращения анархии и земельных столкновений между возвращающимися беженцами 1916 года и крестьянами-переселенцами.\n\nВ Коканде отмечают, что при общности неприятия большевизма вопрос о разграничении полномочий в Аулие-Ате, Чимкенте и Пишпеке остаётся открытым.",
+      "contentUz": "ORENBURG — 1917-yil 5-dekabrdan 13-dekabrgaça (yangi hisobda 18–26-dekabr) yiğilgan II Umumqozoq qurultoyi qozoq-qirğiz viloyatlarining muxtoriyatini e’lon qildi va Alixon Bökeyxonov raisligida 25 kishilik «Alaş Örda» Xalq Şörosini sayladi.\n\nQurultoy Qöqon hukumatimiz ham öz hududi deb biladigan Yettisuv va Sirdaryo viloyatining şimoliy qismiga öz hokimiyatini yoyişini bildirdi hamda 1916-yil qoçqinlari bilan köçmançi dehqonlar örtasidagi yer nizolari va boşivuzdoqlikni töxtatish uçun darhol xalq mirşab qismlarini tuzişga qaror qildi.\n\nQöqondagi kuzatuvçilar bolşevizmga qarşi birlik mavjud bölsa-da, Avliyoota, Çimkent va Pişpek böyiça ikki tomonlama da’volar hanuz hal etilmaganini ta’kidlamoqda."
+    },
+    {
+      "id": 4,
+      "title": "Young Bukharans split in Kagan as Emir Alim Khan fortifies Old Bukhara",
+      "titleRu": "Раскол младобухарцев в Кагане на фоне укрепления власти эмира Алим-хана в Старой Бухаре",
+      "titleUz": "Amir Olimxon Eski Buxoroni mustahkamlamoqda, Yoş buxoroliklar esa Kogonda ikkiga bölindi",
+      "date": "1917-12-20",
+      "category": "Protectorates",
+      "categoryRu": "Протектораты",
+      "categoryUz": "Homiylikdagi davlatlar",
+      "summary": "Bukharan reformists have divided between constitutional Jadids seeking ties with Kokand and a radical faction preparing joint action with the Kagan Soviet.",
+      "summaryRu": "Бухарские реформаторы разделились на конституционных джадидов, ищущих союза с Кокандом, и радикальное крыло, готовящее совместное выступление с Каганским Советом.",
+      "summaryUz": "Buxorolik islohotçilar Qöqon bilan yaqinlaşişni istagan mötadil jadidlar hamda Kogon Şörosi bilan birga harakat qilişga tayyorlanayotgan keskin qanotga bölinib ketdi.",
+      "content": "KAGAN — Sharp tactical divisions have split the Young Bukharan movement following months of repression by Emir Sayyid Mir Muhammad Alim Khan's officials and conservative clergy.\n\nWhile moderate constitutionalists around Mukhitdin Mansurov favor gradual reform and alignment with the Kokand Autonomy, a younger radical wing led by Fayzulla Khodjaev has opened negotiations with Russian railway workers and the Soviet garrison in New Bukhara (Kagan) to topple the Emirate by force.\n\nMeanwhile, inside Old Bukhara, palace dignitaries and the ulema maintain tight control over the bazaars, madrasas, and provincial begs.",
+      "contentRu": "КАГАН — Острые тактические разногласия раскололи движение младобухарцев после месяцев репрессий со стороны чиновников эмира Сеида Мир Мухаммада Алим-хана и консервативного духовенства.\n\nВ то время как умеренные конституционалисты во главе с Мухитдином Мансуровым выступают за постепенные реформы и сближение с Кокандской автономией, молодое радикальное крыло под руководством Файзуллы Ходжаева вступило в переговоры с русскими железнодорожниками и советским гарнизоном Новой Бухары (Кагана) о вооружённом свержении эмирата.\n\nТем временем в Старой Бухаре дворцовые сановники и улемы сохраняют полный контроль над базарами, медресе и провинциальными беками.",
+      "contentUz": "KOGON — Amir Sayyid Mir Muhammad Olimxon amaldorlari va qadimçi ulamolarning bir neça oylik ta’qiblaridan söng Yoş buxoroliklar harakati keskin ichki kelishmovçiliklar tufayli ikkiga bölindi.\n\nMuhiddin Mansurov atrofidagi mötadil qonunçilar tadrijiy islohotlar va Qöqon Muxtoriyati bilan yaqinlaşişni yoqlayotgan bir paytda, Fayzulla Xöjayev boşçiligidagi yoş keskin qanot amirlikni qurol kuchi bilan ağdariş uçun Yangi Buxoro (Kogon)dagi rus temiryölcilari va Şöro qal’a askarlari bilan muzokara boşladi.\n\nŞu orada Eski Buxoro ichida saroy amaldorlari va ulamolar bozorlar, madrasalar hamda viloyat beklari ustidan qattiq nazoratni saqlab turibdi."
+    },
+    {
+      "id": 5,
+      "title": "Transcaspian Congress of Soviets claims Askhabad amid Turkmen mobilization",
+      "titleRu": "Закаспийский съезд Советов провозгласил советскую власть в Асхабаде на фоне мобилизации туркмен",
+      "titleUz": "Kaspiyorti Şörolar qurultoyi turkmanlar safarbarligi fonida Asxobodda Şöro hokimiyatini e’lon qildi",
+      "date": "1917-12-15",
+      "category": "Transcaspia",
+      "categoryRu": "Закаспий",
+      "categoryUz": "Kaspiyorti",
+      "summary": "Railway workers and garrison delegates declared Soviet authority in Askhabad while the Turkmen National Committee organized its own cavalry.",
+      "summaryRu": "Делегаты железнодорожников и гарнизонов объявили советскую власть в Асхабаде, тогда как Туркменский национальный комитет приступил к формированию собственной конницы.",
+      "summaryUz": "Temiryölcilar va qal’a soldatlari vakillari Asxobodda Şöro hokimiyatini e’lon qildi, Turkman milliy qömitasi esa öz otliq qöşinini tuza boşladi.",
+      "content": "ASKHABAD — At the Fourth Transcaspian Oblast Congress of Soviets held November 30 to December 2 (December 13–15, New Style), 1917, Bolshevik and Left SR delegates proclaimed Soviet power across Zakaspiyskaya Oblast and elected a regional Council of People's Commissars.\n\nHowever, real authority outside the railway depots of Askhabad, Kyzyl-Arvat, and Krasnovodsk remains fiercely contested. The Turkmen National Executive Committee and former imperial officers have begun organizing Turkmen cavalry squadrons in the oases.\n\nCut off by the Karakum Desert and Bukhara, Transcaspia sent only a single representative to the Kokand Congress.",
+      "contentRu": "АСХАБАД — На IV Закаспийском областном съезде Советов, проходившем 30 ноября — 2 декабря (13–15 декабря по новому стилю) 1917 года, делегаты большевиков и левых эсеров провозгласили советскую власть в Закаспийской области и избрали областной Совет народных комиссаров.\n\nОднако за пределами железнодорожных депо Асхабада, Кизыл-Арвата и Красноводска реальная власть остаётся предметом острого соперничества: Туркменский национальный исполнительный комитет и бывшие офицеры приступили к формированию туркменских конных дивизионов в оазисах.\n\nОтрезанная пустыней Каракумы и Бухарой, Закаспийская область направила на Кокандский съезд лишь одного представителя.",
+      "contentUz": "ASXOBOD — 1917-yil 30-noyabr – 2-dekabr (yangi hisobda 13–15-dekabr) kunlari ötgan IV Kaspiyorti viloyat Şörolar qurultoyida bolşevik va söl eser vakillari Kaspiyorti viloyatida Şöro hokimiyatini e’lon qilib, viloyat Xalq Komissarlari Şörosini sayladilar.\n\nBiroq Asxobod, Qizil-Arvot va Krasnovodsk temiryöl bekatlaridan taşqarida haqiqiy hokimiyat uçun keskin kuraş davom etmoqda: Turkman milliy ijroiya qömitasi va sobiq podşoh ofitserlari vohalarda turkman otliq qismlarini tuza boşladilar.\n\nQoraqum çuli va Buxoro bilan ajralib qolgan Kaspiyorti viloyati Qöqon qurultoyiga atigi bir nafar vakil yubordi."
+    },
+    {
+      "id": 6,
+      "title": "Bread shortages deepen across Fergana as Orenburg railway remains blocked",
+      "titleRu": "В Фергане обостряется нехватка хлеба из-за блокады Оренбургской железной дороги",
+      "titleUz": "Orenburg temiryöli yopiqligi sababli Farğonada non tanqisligi kuchaymoqda",
+      "date": "1917-12-29",
+      "category": "Economy",
+      "categoryRu": "Экономика",
+      "categoryUz": "Xöjalik va tirikçilik",
+      "summary": "Ataman Dutov's Cossack blockade at Orenburg and Soviet control of Perovsk have choked grain shipments into cotton-growing Fergana.",
+      "summaryRu": "Казачья блокада атамана Дутова под Оренбургом и контроль Советов над Перовском перекрыли подвоз зерна в хлопководческую Фергану.",
+      "summaryUz": "Orenburg ostidagi ataman Dutov kazaklarining qamali va Perovskning Şörolar qölida qolişi paxtakor Farğonaga ğalla kelişini töxtatib qöydi.",
+      "content": "KOKAND — Grain reserves across the Fergana Valley have fallen to critical levels in late December 1917 as Ataman Alexander Dutov's Orenburg Cossacks sever rail traffic from European Russia while Bolshevik Soviets hold key stations along the Syr Darya line at Perovsk and Kazalinsk.\n\nDecades of imperial specialization in raw cotton left Kokand, Skobelev, Namangan, and Andijan dependent on northern wheat imports. With winter setting in, local municipal dumas and our Provisional Government face urgent pressure to secure grain from Samarkand and Jizzak.\n\nMeanwhile, the Tashkent Soviet continues to restrict freight movements into Fergana in an effort to starve our autonomy of funds and provisions.",
+      "contentRu": "КОКАНД — Запасы зерна в Ферганской долине к концу декабря 1917 года сократились до критического уровня: оренбургские казаки атамана Александра Дутова перерезали железнодорожное сообщение с Европейской Россией, а большевистские Советы удерживают ключевые станции Сырдарьинской линии в Перовске и Казалинске.\n\nДесятилетия специализации края на хлопководстве поставили Коканд, Скобелев, Наманган и Андижан в зависимость от привозного северного хлеба. С наступлением зимы городские думы и наше Временное правительство вынуждены срочно налаживать подвоз зерна из Самарканда и Джизака.\n\nТем временем Ташкентский Совет продолжает ограничивать движение грузов в Фергану, пытаясь лишить нашу автономию средств и продовольствия.",
+      "contentUz": "QÖQON — 1917-yil dekabr oxiriga kelib Farğona vodiysida ğalla zaxiralari nihoyatda ozayib ketdi: ataman Aleksandr Dutovning Orenburg kazaklari Yevropa Rusiyasidan keladigan temiryöl qatnovini kesib qöygan, bolşevik Şörolar esa Sirdaryo yölining Perovsk va Qazalidagi asosiy bekatlarini egallab turibdi.\n\nÖlkaning ön yillar davomida faqat paxta yetiştirişga ixtisoslaştırilişi Qöqon, Skobelev, Namangan va Andijonni şimoldan keltiriladigan buğdoyga qaram qilib qöygan edi. Qiş kirişi bilan şahar dumalari va Muvaqqat Hukumatimiz zudlik bilan Samarqand hamda Jizzaxdan ğalla keltiriş choralarini körmoqda.\n\nŞu bilan birga, Toşkent Şörosi muxtoriyatimizni mablağ va oziq-ovqatdan qisiş maqsadida Farğonaga yuk taşișni cheklashda davom etmoqda."
+    }
+  ],
+  "feedPictures": [
+    "./images/photo1.jpg",
+    "./images/photo2.jpg",
+    "./images/photo3.jpg",
+    "./images/photo4.jpg",
+    "./images/boss1.png",
+    "./images/focus1.png",
+    "./images/focus2.png",
+    "./images/focus3.png",
+    "./images/temir.png",
+    "./images/temir2.png",
+    "./images/temir3.png",
+    "./images/tokaev.png"
+  ]
+}
